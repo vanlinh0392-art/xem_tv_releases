@@ -1,5 +1,5 @@
 {
-  "tag_name": "v4.1.1",
-  "body": "Phiên bản v4.1.1 sửa triệt để lỗi hiển thị sai giờ lịch phát sóng EPG (múi giờ GMT+7 Việt Nam), tối ưu hóa luồng phát dự phòng VTV với 3 tầng CDN FPT, và bỏ qua retry khi gặp lỗi CDN bị chặn (HTTP 403/404).",
-  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.1.1/XemTV_v4.1.1_Release.apk"
+  "tag_name": "v4.2.0",
+  "body": "XemTV v4.2.0 cải thiện phục hồi playback trên mạng yếu: watchdog 8/6 giây, retry transient một lần sau 500 ms, fallback tuần tự đúng kênh, chờ mạng validated khi offline, backoff 15/30/60 giây, cache-first EPG/playlist và Media3 1.10.1.",
+  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.0/XemTV_v4.2.0_Release.apk"
 }
