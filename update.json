@@ -1,5 +1,5 @@
 {
-    "tag_name":  "v4.2.3",
-    "body":  "Phien ban v4.2.3 sua updater: dung file APK rieng theo version, xoa file update.apk cu, va doc update.json voi no-cache de tranh tai lai ban 4.2.1 cu.",
-    "browser_download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.3/XemTV_v4.2.3_Release.apk"
+  "tag_name": "v4.2.4",
+  "body": "Phiên bản v4.2.4 hạ cấp Jetpack Media3 xuống phiên bản 1.4.0 ổn định. Khắc phục triệt để lỗi không tương thích bộ giải mã phần cứng OMX.MS.AVC.Decoder trên một số thiết bị Tivi Xiaomi chạy Android 9 (API 28) khiến ứng dụng không phát hoặc tự thoát khi mở.",
+  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.4/XemTV_v4.2.4_Release.apk"
 }
