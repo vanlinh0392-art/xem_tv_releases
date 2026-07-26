@@ -1,5 +1,5 @@
 {
-    "tag_name":  "v4.2.5",
-    "body":  "Phiên bản v4.2.5 tối ưu tốc độ mở trình phát và độ ổn định trên Android TV mạng yếu. Video được ưu tiên phát trước playlist/EPG nền, nhớ nguồn phát ổn định theo từng kênh, tạm hạ ưu tiên nguồn vừa treo để lần mở sau không chờ lại, EPG chỉ tải mạng tối đa 1 lần mỗi ngày và tái sử dụng cache. Tiếp tục dùng Jetpack Media3 1.4.0 ổn định cho Xiaomi Android 9.",
-    "browser_download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.5/XemTV_v4.2.5_Release.apk"
+  "tag_name": "v4.2.6",
+  "body": "Sửa lỗi dừng phát khi mất Internet trên Android TV. Không tăng source index khi offline, giữ nguyên kênh/nguồn và tự reconnect khi mạng trở lại; xử lý READY đến muộn và reconnect live stream trước khi fallback. Tiếp tục dùng Media3 1.4.0 ổn định cho Xiaomi/MStar Android 9.",
+  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.6/XemTV_v4.2.6_Release.apk"
 }
