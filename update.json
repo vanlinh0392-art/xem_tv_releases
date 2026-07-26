@@ -1,5 +1,5 @@
 {
-  "tag_name": "v4.2.6",
-  "body": "Sửa lỗi dừng phát khi mất Internet trên Android TV. Không tăng source index khi offline, giữ nguyên kênh/nguồn và tự reconnect khi mạng trở lại; xử lý READY đến muộn và reconnect live stream trước khi fallback. Tiếp tục dùng Media3 1.4.0 ổn định cho Xiaomi/MStar Android 9.",
-  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.6/XemTV_v4.2.6_Release.apk"
+  "tag_name": "v4.2.7",
+  "body": "Phiên bản v4.2.7 cập nhật định kỳ từ nhánh master, bao gồm tối ưu hóa bộ nhớ đệm và cải thiện khôi phục kênh tự động khi mất kết nối. Tiếp tục sử dụng Media3 1.4.0 ổn định cho thiết bị Android TV Xiaomi chạy Android 9.",
+  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.7/XemTV_v4.2.7_Release.apk"
 }
