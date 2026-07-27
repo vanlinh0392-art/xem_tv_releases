@@ -1,5 +1,5 @@
 {
-    "tag_name":  "v4.2.8",
-    "body":  "### Changed\r\n\r\n- Dọn cấu trúc repository: script crawler và dữ liệu thí nghiệm chuyển vào `tools/crawler/`, gỡ `temp_epg.xml` khỏi git, viết lại `.gitignore` theo phạm vi hẹp thay vì chặn `*.js`/`*.json` toàn cục.\r\n- Thêm GitHub Actions CI chạy unit test, lint và assembleDebug cho mỗi push/PR.\r\n- Thêm `tools/release/publish-release.ps1`: một lệnh build, tạo GitHub release, upload APK và cập nhật `update.json`, kèm kiểm tra chặn tag trùng và xác minh asset trước khi đổi feed.\r\n- Đồng bộ tài liệu với code: phiên bản 4.2.6, Media3 1.4.0.\r\n\r\n### Fixed\r\n\r\n- Watchdog buffering lần đầu tăng từ 5 lên 8 giây theo đúng thiết kế v4.2.0, tránh chuyển nguồn oan trên TV giải mã chậm (Xiaomi Android 9) sau...",
-    "browser_download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.8/XemTV_v4.2.8_Release.apk"
+    "tag_name":  "v4.2.9",
+    "body":  "### Fixed\r\n\r\n- AppUpdateHelper không hiển thị dialog/toast khi Activity đã kết thúc.\r\n- Updater không còn crash app khi xử lý kết quả tải APK trên TV: toàn bộ `onReceive` được bọc try/catch (exception trong BroadcastReceiver làm chết process), kiểm tra chỉ số cột STATUS/REASON, null-safe `DownloadManager` và thư mục tải, kiểm tra file APK khác rỗng trước khi cài, và log đầy đủ stacktrace (tag `AppUpdate`) để chẩn đoán.\r\n- Xóa các import không sử dụng còn sót trong `MainActivity`.",
+    "browser_download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.9/XemTV_v4.2.9_Release.apk"
 }
