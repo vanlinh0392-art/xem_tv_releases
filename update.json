@@ -1,5 +1,5 @@
 {
-    "tag_name":  "v4.2.9",
-    "body":  "### Fixed\r\n\r\n- AppUpdateHelper không hiển thị dialog/toast khi Activity đã kết thúc.\r\n- Updater không còn crash app khi xử lý kết quả tải APK trên TV: toàn bộ `onReceive` được bọc try/catch (exception trong BroadcastReceiver làm chết process), kiểm tra chỉ số cột STATUS/REASON, null-safe `DownloadManager` và thư mục tải, kiểm tra file APK khác rỗng trước khi cài, và log đầy đủ stacktrace (tag `AppUpdate`) để chẩn đoán.\r\n- Xóa các import không sử dụng còn sót trong `MainActivity`.",
-    "browser_download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.9/XemTV_v4.2.9_Release.apk"
+    "tag_name":  "v4.2.10",
+    "body":  "### Added\r\n\r\n- Hỗ trợ tìm kiếm kênh trên hệ thống Android TV (TvSearchContentProvider, searchable.xml).\r\n- Thêm biểu tượng logo chuẩn nét cho nhóm kênh VTV.",
+    "browser_download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.10/XemTV_v4.2.10_Release.apk"
 }
