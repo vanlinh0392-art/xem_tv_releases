@@ -1,5 +1,5 @@
 {
-    "tag_name":  "v4.2.13",
-    "body":  "### Fixed\r\n\r\n- Mở rộng quyền truy cập ContentProvider tìm kiếm kênh (exported=true, bỏ ràng buộc SecurityException) để mọi dịch vụ Voice Search / Launcher trên Android 9 TV đều đọc được danh sách gợi ý kênh.",
-    "browser_download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.13/XemTV_v4.2.13_Release.apk"
+    "tag_name":  "v4.2.14",
+    "body":  "### Fixed\r\n\r\n- Khắc phục triệt để lỗi 404 không phát được của các kênh VTV2, VTV3, VTV6, VTV7, VTV9 trên toàn bộ các nguồn dự phòng: Cập nhật đường dẫn endpoint CDN FPT Play chuẩn 1080p FHD 50fps (`vtv2`, `vtv3`, `vtv6`, `vtv7`, `vtv9`) và bổ sung luồng phát VTV Cần Thơ, VTV8, VTV5 Tây Nguyên.",
+    "browser_download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.14/XemTV_v4.2.14_Release.apk"
 }
