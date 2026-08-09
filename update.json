@@ -1,5 +1,5 @@
 {
-    "tag_name":  "v4.2.11",
-    "body":  "### Fixed\r\n\r\n- Thay thế hoàn toàn DownloadManager bằng HTTP stream trực tiếp trong AppUpdateHelper, giải quyết triệt để lỗi SQLiteException (no such column: local_filename) khi tải cập nhật trên Android TV Xiaomi.",
-    "browser_download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.11/XemTV_v4.2.11_Release.apk"
+    "tag_name":  "v4.2.12",
+    "body":  "### Fixed\r\n\r\n- Sửa lỗi tìm kiếm giọng nói trên Android TV (Android 9): ưu tiên selectionArgs từ SearchManager, loại bỏ tiền tố khẩu lệnh (\"mở\", \"xem\", \"bật\", \"kênh\"), hỗ trợ đầy đủ intent ACTION_VIEW và MEDIA_PLAY_FROM_SEARCH.",
+    "browser_download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.12/XemTV_v4.2.12_Release.apk"
 }
