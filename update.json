@@ -1,6 +1,6 @@
 ﻿{
-  "tag_name": "v4.2.20",
-  "name": "XemTV v4.2.20",
-  "body": "Nâng cấp v4.2.20:\n- Bỏ nền chữ hiển thị thông tin lịch chiếu khi chuyển kênh\n- Bỏ nền nút phóng to toàn màn hình bản Mobile\n- Thêm shadow giúp chữ hiển thị sắc nét trên nền video",
-  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.20/app-release.apk"
+  "tag_name": "v4.2.21",
+  "name": "XemTV v4.2.21",
+  "body": "Nâng cấp v4.2.21:\n- Bỏ toàn bộ nền mờ của thanh điều khiển góc trên và thanh xem video Mobile\n- Nút bấm và biểu tượng hiển thị trong suốt mượt mà trên nền video",
+  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.21/app-release.apk"
 }
