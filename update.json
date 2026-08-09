@@ -1,5 +1,5 @@
 {
-    "tag_name":  "v4.2.12",
-    "body":  "### Fixed\r\n\r\n- Sửa lỗi tìm kiếm giọng nói trên Android TV (Android 9): ưu tiên selectionArgs từ SearchManager, loại bỏ tiền tố khẩu lệnh (\"mở\", \"xem\", \"bật\", \"kênh\"), hỗ trợ đầy đủ intent ACTION_VIEW và MEDIA_PLAY_FROM_SEARCH.",
-    "browser_download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.12/XemTV_v4.2.12_Release.apk"
+    "tag_name":  "v4.2.13",
+    "body":  "### Fixed\r\n\r\n- Mở rộng quyền truy cập ContentProvider tìm kiếm kênh (exported=true, bỏ ràng buộc SecurityException) để mọi dịch vụ Voice Search / Launcher trên Android 9 TV đều đọc được danh sách gợi ý kênh.",
+    "browser_download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.13/XemTV_v4.2.13_Release.apk"
 }
