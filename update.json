@@ -1,5 +1,5 @@
 {
-    "tag_name":  "v4.2.15",
-    "body":  "### Fixed\r\n\r\n- Thay thế toàn bộ các nguồn kênh lỗi / proxy chết: Cập nhật nhóm kênh SCTV khả dụng (SCTV2, SCTV3, SCTV4, SCTV5, SCTV6, SCTV16), cập nhật nguồn Địa Phương (Sơn La STV, Đồng Nai ĐNNRTV, An Giang ATV), và thay thế kênh quốc tế ABC Australia bằng Sky News Australia HD.",
-    "browser_download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.15/XemTV_v4.2.15_Release.apk"
+    "tag_name":  "v4.2.16",
+    "body":  "XemTV v4.2.16",
+    "browser_download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.16/XemTV_v4.2.16_Release.apk"
 }
