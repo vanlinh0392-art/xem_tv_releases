@@ -1,6 +1,6 @@
 ﻿{
-  "tag_name": "v4.2.21",
-  "name": "XemTV v4.2.21",
-  "body": "Nâng cấp v4.2.21:\n- Bỏ toàn bộ nền mờ của thanh điều khiển góc trên và thanh xem video Mobile\n- Nút bấm và biểu tượng hiển thị trong suốt mượt mà trên nền video",
-  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.21/app-release.apk"
+  "tag_name": "v4.2.22",
+  "name": "XemTV v4.2.22",
+  "body": "Nâng cấp v4.2.22 (Chất lượng mã nguồn & Độ ổn định):\n- Tối ưu bộ nhớ cache và lọc bỏ nguồn lỗi\n- Nâng cấp luồng tải cập nhật sang Coroutines an toàn tuyệt đối\n- Tối ưu tiêu điểm D-pad cho Remote Android TV",
+  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.22/app-release.apk"
 }
