@@ -1,4 +1,4 @@
-﻿{
+{
   "tag_name": "v4.2.26",
   "name": "XemTV v4.2.26",
   "body": "Nâng cấp v4.2.26 (Bộ phân tích & Kiểm tra nguồn IPTV thông minh):\n- Hỗ trợ đa dạng nguồn IPTV: M3U/M3U8, JSON Playlist, Gzip (.gz) và Kênh stream đơn lẻ (HLS/DASH)\n- Tự động kiểm tra tính khả dụng của link trước khi thêm\n- Báo lỗi rõ ràng bằng tiếng Việt nếu link chết (404, 403, Timeout...)\n- Báo chính xác số lượng kênh hợp lệ được nạp thành công\n- Ghi cache tức thì, tối ưu hóa tốc độ và trải nghiệm",
