@@ -1,6 +1,6 @@
 ﻿{
-  "tag_name": "v4.2.24",
-  "name": "XemTV v4.2.24",
-  "body": "Nâng cấp v4.2.24 (Sửa lỗi EPG & Bù lệch giờ):\n- Cập nhật nguồn lịch EPG mới sạch đẹp (epg.io.vn / lichphatsong.io.vn)\n- Loại bỏ triệt để dòng thông báo đổi tên miền\n- Thêm tính năng Bù lệch giờ phát sóng (Time Shift)",
-  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.24/app-release.apk"
+  "tag_name": "v4.2.25",
+  "name": "XemTV v4.2.25",
+  "body": "Nâng cấp v4.2.25 (Tối ưu UI & Trải nghiệm Remote):\n- Nút Cập nhật chuyển lên đầu Cài đặt với viền focus vàng nổi bật\n- Tự động check bản mới khi mở Cài đặt\n- Giao diện Bù lệch giờ 2 hàng gọn gàng không bị khuất\n- Text lịch đang chiếu căn giữa, tăng size chữ và tăng thời gian hiện 5s\n- Tự động focus nút 'Có' khi đổi nguồn và thoát app",
+  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.25/app-release.apk"
 }
