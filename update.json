@@ -1,6 +1,6 @@
 ﻿{
-  "tag_name": "v4.2.22",
-  "name": "XemTV v4.2.22",
-  "body": "Nâng cấp v4.2.22 (Chất lượng mã nguồn & Độ ổn định):\n- Tối ưu bộ nhớ cache và lọc bỏ nguồn lỗi\n- Nâng cấp luồng tải cập nhật sang Coroutines an toàn tuyệt đối\n- Tối ưu tiêu điểm D-pad cho Remote Android TV",
-  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.22/app-release.apk"
+  "tag_name": "v4.2.23",
+  "name": "XemTV v4.2.23",
+  "body": "Nâng cấp v4.2.23 (Dữ liệu kênh động):\n- Tách dữ liệu ~100 kênh ra file channels.json\n- Hỗ trợ tự động cập nhật link kênh mới từ máy chủ\n- Tối ưu bộ nạp danh mục và logo kênh mượt mà",
+  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.23/app-release.apk"
 }
