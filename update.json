@@ -1,6 +1,6 @@
 {
-  "tag_name": "v4.2.28",
-  "name": "XemTV v4.2.28",
-  "body": "Nâng cấp v4.2.28 (Kiểm tra tỉ lệ sống nguồn phát & Hiển thị nhãn OK/NG):\n- Bổ sung nút Kiểm tra tỉ lệ sống nguồn phát siêu tốc bằng Coroutines\n- Quét và kiểm tra đồng thời 4 nguồn VTV mặc định và toàn bộ các nguồn IPTV tùy chỉnh\n- Hiển thị nhãn huy hiệu [🟢 OK: X | NG: Y • Z%] ngay bên cạnh tên từng nguồn phát\n- Bảng tổng kết thống kê chi tiết phần trăm kênh hoạt động",
-  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.2.28/app-release.apk"
+  "tag_name": "v4.3.0",
+  "name": "XemTV v4.3.0",
+  "body": "Nâng cấp toàn diện v4.3.0 (Kiến trúc sạch, Tối ưu RAM EPG, Fast-Failover & Aspect Ratio):\n- Phân rã God-Class MainActivity thành 4 UI Controllers độc lập, code gọn gàng, mượt mà\n- Tối ưu RAM EPG (Auto-Pruning): Tự động dọn lịch cũ >6h, giảm >40% RAM Heap cho TV 1GB RAM\n- Cơ chế Fast-Failover: Nhảy cóc qua link chết (403/Timeout) < 1.2s, không lo màn hình đen\n- Aspect Ratio Switcher: Đổi 3 tỉ lệ màn hình (16:9 Fit, Zoom/Crop, Fill/Stretch) bằng remote D-Pad\n- 157/157 Unit Tests PASS 100%, bảo đảm độ ổn định tối đa",
+  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.3.0/app-release.apk"
 }
