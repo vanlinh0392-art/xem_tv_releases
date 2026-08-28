@@ -1,7 +1,7 @@
 {
-  "tag_name": "v4.3.1",
-  "name": "XemTV v4.3.1",
-  "body": "Bản vá v4.3.1 (Player Resilience, Memory Safety & Security Hardening):\n- Tăng timeout IPTV (8s/15s) và retry 3 lần, giảm tình trạng kênh báo lỗi sớm\n- Thêm WakeMode giữ kết nối khi TV Doze, hỗ trợ MimeType .ts cho kênh IPTV\n- HTTP 403 giờ retry 1 lần (5s) trước khi nhảy source, phù hợp token hết hạn\n- Sửa crash NoClassDefFoundError trên TV Box Android 5-7 (API < 26)\n- EPG cache off-thread, không giật lag khi cuộn danh sách kênh\n- Xác thực SHA-256 file cập nhật OTA chống giả mạo APK\n- Strip debug logs trong release, bảo vệ ContentProvider, cấu hình Network Security",
-  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.3.1/app-release.apk",
-  "sha256": "3c36556a1dda78e070a7f46c6f7da37894bb59ecae726386a1fed97e9dd458a9"
+  "tag_name": "v4.3.2",
+  "name": "XemTV v4.3.2",
+  "body": "Bản vá khẩn cấp v4.3.2 (Hỗ trợ kết nối Mạng LAN & IPTV Tùy chỉnh):\n- Sửa lỗi văng ứng dụng / chặn kết nối khi mở luồng phát từ IP mạng LAN nội bộ (192.168.x.x, 10.x.x.x)\n- Cho phép kết nối Cleartext HTTP cho toàn bộ các nguồn IPTV và máy chủ streaming gia đình\n- Tự động chuẩn hóa và thêm tiền tố http:// nếu người dùng nhập IP trần không có scheme\n- Xác thực toàn vẹn gói cập nhật với mã băm SHA-256",
+  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.3.2/app-release.apk",
+  "sha256": "dc1137a0a40df5ecd70967698f2b4bb44469762607f7527adb599bbe90cc9ce5"
 }
