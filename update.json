@@ -1,6 +1,7 @@
 {
-  "tag_name": "v4.3.0",
-  "name": "XemTV v4.3.0",
-  "body": "Nâng cấp toàn diện v4.3.0 (Kiến trúc sạch, Tối ưu RAM EPG, Fast-Failover & Aspect Ratio):\n- Phân rã God-Class MainActivity thành 4 UI Controllers độc lập, code gọn gàng, mượt mà\n- Tối ưu RAM EPG (Auto-Pruning): Tự động dọn lịch cũ >6h, giảm >40% RAM Heap cho TV 1GB RAM\n- Cơ chế Fast-Failover: Nhảy cóc qua link chết (403/Timeout) < 1.2s, không lo màn hình đen\n- Aspect Ratio Switcher: Đổi 3 tỉ lệ màn hình (16:9 Fit, Zoom/Crop, Fill/Stretch) bằng remote D-Pad\n- 157/157 Unit Tests PASS 100%, bảo đảm độ ổn định tối đa",
-  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.3.0/app-release.apk"
+  "tag_name": "v4.3.1",
+  "name": "XemTV v4.3.1",
+  "body": "Bản vá v4.3.1 (Player Resilience, Memory Safety & Security Hardening):\n- Tăng timeout IPTV (8s/15s) và retry 3 lần, giảm tình trạng kênh báo lỗi sớm\n- Thêm WakeMode giữ kết nối khi TV Doze, hỗ trợ MimeType .ts cho kênh IPTV\n- HTTP 403 giờ retry 1 lần (5s) trước khi nhảy source, phù hợp token hết hạn\n- Sửa crash NoClassDefFoundError trên TV Box Android 5-7 (API < 26)\n- EPG cache off-thread, không giật lag khi cuộn danh sách kênh\n- Xác thực SHA-256 file cập nhật OTA chống giả mạo APK\n- Strip debug logs trong release, bảo vệ ContentProvider, cấu hình Network Security",
+  "browser_download_url": "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v4.3.1/app-release.apk",
+  "sha256": "3c36556a1dda78e070a7f46c6f7da37894bb59ecae726386a1fed97e9dd458a9"
 }
