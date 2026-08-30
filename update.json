@@ -1,13 +1,10 @@
 {
-  "versionCode": 53,
-  "versionName": "5.7.3",
-  "tag_name": "v5.7.3",
-  "name": "XemTV v5.7.3 (Rock-Solid Stability & AI Agent Background Runner)",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.7.3.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.7.3.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.7.3.apk",
-  "apkSize": "5.43 MB",
-  "sha256": "eb9787b8c253d0fd4609adc92c4fe1a56062400ce67788749982c335f2ca9208",
-  "changelog": "✨ Phiên bản v5.7.3 (AgentKit Dual-Control & Plan Ultra - Vá 3 Lỗi Nghiêm Trọng & Thu Gọn Cào Ngầm Tác Tử AI):\n• 1. Tự động Quản lý Audio Focus & Media Attributes: Tích hợp chuẩn Google Media3 AudioAttributes, tự động giảm/dừng tiếng khi có cuộc gọi hoặc thông báo chỉ đường.\n• 2. Triệt tiêu 100% nguy cơ Crash BadTokenException: Toàn bộ Dialog & Toast kiểm tra vòng đời Activity (isFinishing/isDestroyed) chặt chẽ, giải phóng an toàn khi thoát app.\n• 3. Ghi Cache Atomic An Toàn & Tự Dọn Rác Ổ Đĩa: Tự tạo thư mục cha trước khi ghi file tạm, tự động xóa sạch file cache .playlist và .tmp khi xóa nguồn.\n• 4. Giới Hạn Chuẩn 10 Biến Thể Cào Mở Rộng: Giới hạn tối đa 10 biến thể từ khóa ngữ nghĩa để tránh cào loãng nguồn, tập trung chất lượng cao nhất.\n• 5. Nút Thu Gọn Chạy Ngầm Cho Tác Tử AI: Bổ sung nút 'Thu gọn (Ẩn ngầm)' và Floating Pill trạng thái bước cào của Tác tử AI, không làm gián đoạn khi đang xem phim.\n• 6. 191/191 bài kiểm thử tự động đạt 100% PASS, 0 cảnh báo.",
-  "body": "✨ Phiên bản v5.7.3 (AgentKit Dual-Control & Plan Ultra - Vá 3 Lỗi Nghiêm Trọng & Thu Gọn Cào Ngầm Tác Tử AI):\n• 1. Tự động Quản lý Audio Focus & Media Attributes: Tích hợp chuẩn Google Media3 AudioAttributes, tự động giảm/dừng tiếng khi có cuộc gọi hoặc thông báo chỉ đường.\n• 2. Triệt tiêu 100% nguy cơ Crash BadTokenException: Toàn bộ Dialog & Toast kiểm tra vòng đời Activity (isFinishing/isDestroyed) chặt chẽ, giải phóng an toàn khi thoát app.\n• 3. Ghi Cache Atomic An Toàn & Tự Dọn Rác Ổ Đĩa: Tự tạo thư mục cha trước khi ghi file tạm, tự động xóa sạch file cache .playlist và .tmp khi xóa nguồn.\n• 4. Giới Hạn Chuẩn 10 Biến Thể Cào Mở Rộng: Giới hạn tối đa 10 biến thể từ khóa ngữ nghĩa để tránh cào loãng nguồn, tập trung chất lượng cao nhất.\n• 5. Nút Thu Gọn Chạy Ngầm Cho Tác Tử AI: Bổ sung nút 'Thu gọn (Ẩn ngầm)' và Floating Pill trạng thái bước cào của Tác tử AI, không làm gián đoạn khi đang xem phim.\n• 6. 191/191 bài kiểm thử tự động đạt 100% PASS, 0 cảnh báo."
+  "versionCode": 54,
+  "versionName": "5.8.0",
+  "minSupportedVersion": 35,
+  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.0.apk",
+  "fileSize": 5694618,
+  "sha256": "5c931c396fd2c218fa379ea7d71f1a9b9718253c7767cc6acbc21d7362c703dd",
+  "releaseDate": "2026-08-31",
+  "changelog": "🚀 XemTV v5.8.0 - Tách Tab Cài Đặt & Cào Link AI Riêng Biệt, Fix Sức Khỏe Nguồn:\n- ✨ Thiết kế Tabbed Settings Overlay: Tab 1 Cài Đặt và Tab 2 Cào Link & Update riêng biệt cực gọn gàng.\n- 🤖 Thêm nút Cào Link AI trên thanh đảo nổi góc trên bên phải để mở nhanh Tab AI.\n- 🔍 Bản vá toàn diện Kiểm Tra Sức Khỏe Nguồn (SourceHealthChecker): Đọc chính xác Kho AI 30 ngày/vĩnh viễn, triệt tiêu báo lỗi giả CDN.\n- 📡 Hiển thị live badge trạng thái sống/chết trên 4 nguồn VTV mặc định."
 }
