@@ -1,13 +1,13 @@
 {
-  "versionCode": 41,
-  "versionName": "4.10.0",
-  "tag_name": "v4.10.0",
-  "name": "XemTV v4.10.0",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.10.0.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.10.0.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.10.0.apk",
-  "apkSize": "5.35 MB",
-  "sha256": "f11e868fb58eea87bfed1cef87472cab9ed29651c60295b386c97dc2a240af34",
-  "changelog": "🚀 Phiên bản v4.10.0 (Plan Ultra - Động Cơ Thẩm Định 3-Hop Deep Stream & Tự Động Ưu Tiên Nguồn AI 100% Sống):\n• Triển khai Động cơ thẩm định chuyên sâu 3-Hop (Hop 1: Master Manifest -> Hop 2: Sub-playlist Track -> Hop 3: TS/fMP4 Video Chunk Byte Verification). Triệt tiêu 100% các link DRM bị lỗi HTTP 400/403/404.\n• Tối ưu ChannelSourceResolver tự động ưu tiên nguồn AI/Custom lên đầu khi phát kênh tùy chỉnh, hiển thị nhãn rõ ràng '🤖 Nguồn AI Tự Động'.\n• Cập nhật danh bạ nguồn IPTV mở hoạt động thực tế 100% không còn nguồn chết.",
-  "body": "🚀 Phiên bản v4.10.0 (Plan Ultra - Động Cơ Thẩm Định 3-Hop Deep Stream & Tự Động Ưu Tiên Nguồn AI 100% Sống):\n• Triển khai Động cơ thẩm định chuyên sâu 3-Hop (Hop 1: Master Manifest -> Hop 2: Sub-playlist Track -> Hop 3: TS/fMP4 Video Chunk Byte Verification). Triệt tiêu 100% các link DRM bị lỗi HTTP 400/403/404.\n• Tối ưu ChannelSourceResolver tự động ưu tiên nguồn AI/Custom lên đầu khi phát kênh tùy chỉnh, hiển thị nhãn rõ ràng '🤖 Nguồn AI Tự Động'.\n• Cập nhật danh bạ nguồn IPTV mở hoạt động thực tế 100% không còn nguồn chết."
+  "versionCode": 42,
+  "versionName": "4.11.0",
+  "tag_name": "v4.11.0",
+  "name": "XemTV v4.11.0",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.11.0.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.11.0.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.11.0.apk",
+  "apkSize": "5.36 MB",
+  "sha256": "7c0044a87b3c208b05da081a9fabf4babd9efdd49eddf7ed6b3cbe79672c4ff2",
+  "changelog": "🎨 Phiên bản v4.11.0 (Plan Ultra - Thiết kế Giao diện Tinh Gọn Icon-Only & Tối Ưu Menu 5 Phương Án):\n• Chuyển đổi 100% nút bấm sang Icon Vector tinh gọn không dùng text: Đảo nổi kính mờ Video Controls, Viên thuốc điều khiển dưới video, Tab Bar Segmented 4 icon cân đối và Toolbar Quick Action trong cài đặt.\n• Tối ưu công thái học theo tiêu chuẩn ui-ux-pro-max (Touch size >= 44dp, hiệu ứng ripple, viền vàng Play/Pause nổi bật, chống tràn mép).\n• Đầy đủ contentDescription và hỗ trợ mượt mà trên cả Mobile màn hình dọc/ngang lẫn Android TV D-Pad.",
+  "body": "🎨 Phiên bản v4.11.0 (Plan Ultra - Thiết kế Giao diện Tinh Gọn Icon-Only & Tối Ưu Menu 5 Phương Án):\n• Chuyển đổi 100% nút bấm sang Icon Vector tinh gọn không dùng text: Đảo nổi kính mờ Video Controls, Viên thuốc điều khiển dưới video, Tab Bar Segmented 4 icon cân đối và Toolbar Quick Action trong cài đặt.\n• Tối ưu công thái học theo tiêu chuẩn ui-ux-pro-max (Touch size >= 44dp, hiệu ứng ripple, viền vàng Play/Pause nổi bật, chống tràn mép).\n• Đầy đủ contentDescription và hỗ trợ mượt mà trên cả Mobile màn hình dọc/ngang lẫn Android TV D-Pad."
 }
