@@ -1,0 +1,13 @@
+{
+  "versionCode": 36,
+  "versionName": "4.5.0",
+  "tag_name": "v4.5.0",
+  "name": "XemTV v4.5.0",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.5.0.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.5.0.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.5.0.apk",
+  "apkSize": "5.3 MB",
+  "sha256": "92480c0382ab379ea18059b0d37900287c17c5337defdb7b3340c1599e5f2bdf",
+  "changelog": "🤖 Phiên bản v4.5.0 (Plan Ultra 7-Day & AI Discovery Pro):\n• Khắc phục hoàn toàn lỗi tải file cập nhật trên Mobile và Android TV.\n• Cơ sở dữ liệu 7-Day TTL Database (ai_vtv_metrics.json) lưu trữ phân vùng danh sách M3U và điểm sức khỏe kênh.\n• Tự động dọn dẹp playlist cũ hơn 7 ngày, giữ lại 3-5 bản quét ổn định nhất.\n• Động cơ khám phá & đồng bộ Model AI Free (Dynamic Free Model Sync) trực tiếp từ OpenRouter.\n• Giao diện tiến độ trực quan với ProgressBar và thông tin % xác thực thời gian thực.\n• Menu Cài đặt AI Scraper linh hoạt: Chọn Provider, Model Free, Ngưỡng tin cậy (75%-95%), thêm Nguồn Cào M3U bổ sung.",
+  "body": "🤖 Phiên bản v4.5.0 (Plan Ultra 7-Day & AI Discovery Pro):\n• Khắc phục hoàn toàn lỗi tải file cập nhật trên Mobile và Android TV.\n• Cơ sở dữ liệu 7-Day TTL Database (ai_vtv_metrics.json) lưu trữ phân vùng danh sách M3U và điểm sức khỏe kênh.\n• Tự động dọn dẹp playlist cũ hơn 7 ngày, giữ lại 3-5 bản quét ổn định nhất.\n• Động cơ khám phá & đồng bộ Model AI Free (Dynamic Free Model Sync) trực tiếp từ OpenRouter.\n• Giao diện tiến độ trực quan với ProgressBar và thông tin % xác thực thời gian thực.\n• Menu Cài đặt AI Scraper linh hoạt: Chọn Provider, Model Free, Ngưỡng tin cậy (75%-95%), thêm Nguồn Cào M3U bổ sung."
+}
