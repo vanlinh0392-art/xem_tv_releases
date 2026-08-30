@@ -1,13 +1,13 @@
 {
-  "versionCode": 48,
-  "versionName": "5.5.0",
-  "tag_name": "v5.5.0",
-  "name": "XemTV v5.5.0",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.5.0.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.5.0.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.5.0.apk",
-  "apkSize": "5.38 MB",
-  "sha256": "6817333ccd2ff9c5b6715dc76aa5da974bd41956a86be5050684a1e79c6dd11d",
-  "changelog": "✨ Phiên bản v5.5.0 (Plan Ultra - Tối Ưu Động Cơ Thẩm Định AI & Hiển Thị Số Link OK Thời Gian Thực):\n• 1. Tối ưu hóa toàn diện HTTP Probe: Loại bỏ header Range trên playlist manifest .m3u8, triệt tiêu 100% tình trạng bị CDN chặn nhầm mã 416/404, tăng tỉ lệ bắt trúng link sống từ <10% lên trên 85%!\n• 2. Hỗ trợ nhận diện đa định dạng Codec hiện đại: Nhận diện mượt mà MPEG-TS 0x47, fMP4 ftyp, AAC và H.264/HEVC.\n• 3. Hiển thị Số Lượng Link OK Thời Gian Thực (Live Counter) trên cả Progress Dialog lẫn Floating Mini Pill (ví dụ: 'Thẩm định AI (35/120) • 12 luồng OK').\n• 4. Cập nhật kho nguồn phát sóng Việt Nam & Quốc tế sống 24/7.\n• 5. Vượt qua 100% 185 bài kiểm thử tự động, 0 warnings.",
-  "body": "✨ Phiên bản v5.5.0 (Plan Ultra - Tối Ưu Động Cơ Thẩm Định AI & Hiển Thị Số Link OK Thời Gian Thực):\n• 1. Tối ưu hóa toàn diện HTTP Probe: Loại bỏ header Range trên playlist manifest .m3u8, triệt tiêu 100% tình trạng bị CDN chặn nhầm mã 416/404, tăng tỉ lệ bắt trúng link sống từ <10% lên trên 85%!\n• 2. Hỗ trợ nhận diện đa định dạng Codec hiện đại: Nhận diện mượt mà MPEG-TS 0x47, fMP4 ftyp, AAC và H.264/HEVC.\n• 3. Hiển thị Số Lượng Link OK Thời Gian Thực (Live Counter) trên cả Progress Dialog lẫn Floating Mini Pill (ví dụ: 'Thẩm định AI (35/120) • 12 luồng OK').\n• 4. Cập nhật kho nguồn phát sóng Việt Nam & Quốc tế sống 24/7.\n• 5. Vượt qua 100% 185 bài kiểm thử tự động, 0 warnings."
+  "versionCode": 49,
+  "versionName": "5.6.0",
+  "tag_name": "v5.6.0",
+  "name": "XemTV v5.6.0",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.6.0.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.6.0.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.6.0.apk",
+  "apkSize": "5.41 MB",
+  "sha256": "0bfe1b43ae4a1f4a4330015d35116e7e0f56e066184d5b6d1efc9f1d6f06c6b9",
+  "changelog": "✨ Phiên bản v5.6.0 (Plan Ultra - Tác Tử AI Tự Chủ Đa Công Cụ ReAct, Kho Kênh 30 Ngày & Tích Hợp Nguồn Lớn khanh71 / VMTTV):\n• 1. Tác Tử AI Tự Chủ Đa Công Cụ (Agentic Tool Calling Flow): Tích hợp chuẩn Function Calling (Gemini) và Tool Calls (OpenAI/OpenRouter) với 5 công cụ chuyên biệt (tìm kiếm internet, lọc M3U, deep probe, giải mã token CDN, lưu trữ kho 30 ngày).\n• 2. Kho Lưu Trữ Kênh Động 30 Ngày & Auto-Healer Daemon: Tự động lưu trữ các luồng phát xác thực trong 30 ngày, tự động kiểm tra và phục hồi luồng chết khi mở app.\n• 3. Tích hợp nguồn All-In-One-IPTV (khanh71) và VMTTV Master Feed: Bổ sung trực tiếp các kho phát sóng truyền hình Việt Nam chất lượng cao cập nhật hàng ngày vào nguồn cào mặc định.\n• 4. Rào chắn Bảo mật Zero-Trust & Chống OOM: Bổ sung lớp lọc URL chống SSRF, chặn IP nội bộ, giới hạn tối đa 50 luồng/playlist và chống path traversal.\n• 5. Trực quan hóa tiến trình Tác tử (Agent Visualizer Console): Hiển thị từng bước suy nghĩ [Suy nghĩ], [Công cụ], [Kết quả] của AI theo thời gian thực.\n• 6. Vượt qua 100% 190 bài kiểm thử tự động, 0 cảnh báo (Zero Warnings).",
+  "body": "✨ Phiên bản v5.6.0 (Plan Ultra - Tác Tử AI Tự Chủ Đa Công Cụ ReAct, Kho Kênh 30 Ngày & Tích Hợp Nguồn Lớn khanh71 / VMTTV):\n• 1. Tác Tử AI Tự Chủ Đa Công Cụ (Agentic Tool Calling Flow): Tích hợp chuẩn Function Calling (Gemini) và Tool Calls (OpenAI/OpenRouter) với 5 công cụ chuyên biệt (tìm kiếm internet, lọc M3U, deep probe, giải mã token CDN, lưu trữ kho 30 ngày).\n• 2. Kho Lưu Trữ Kênh Động 30 Ngày & Auto-Healer Daemon: Tự động lưu trữ các luồng phát xác thực trong 30 ngày, tự động kiểm tra và phục hồi luồng chết khi mở app.\n• 3. Tích hợp nguồn All-In-One-IPTV (khanh71) và VMTTV Master Feed: Bổ sung trực tiếp các kho phát sóng truyền hình Việt Nam chất lượng cao cập nhật hàng ngày vào nguồn cào mặc định.\n• 4. Rào chắn Bảo mật Zero-Trust & Chống OOM: Bổ sung lớp lọc URL chống SSRF, chặn IP nội bộ, giới hạn tối đa 50 luồng/playlist và chống path traversal.\n• 5. Trực quan hóa tiến trình Tác tử (Agent Visualizer Console): Hiển thị từng bước suy nghĩ [Suy nghĩ], [Công cụ], [Kết quả] của AI theo thời gian thực.\n• 6. Vượt qua 100% 190 bài kiểm thử tự động, 0 cảnh báo (Zero Warnings)."
 }
