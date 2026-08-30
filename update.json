@@ -1,13 +1,13 @@
 {
-  "versionCode": 45,
-  "versionName": "5.2.0",
-  "tag_name": "v5.2.0",
-  "name": "XemTV v5.2.0",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.2.0.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.2.0.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.2.0.apk",
-  "apkSize": "5.37 MB",
-  "sha256": "485d108900b95660b843d7d6128b770c1d45bf336b9f401b2d7339d122e733df",
-  "changelog": "✨ Phiên bản v5.2.0 (Plan Ultra - Sửa Lỗi Kiểm Tra Nguồn AI & Thu Gọn Mini Pill Chạy Ngầm):\n• 1. Sửa dứt điểm lỗi Kiểm tra tỉ lệ sống nguồn phát cho các nguồn AI: Tự động phân giải chính xác file cache internal:// và tải đầy đủ kênh để kiểm tra liveness.\n• 2. Thêm nút 'Thu gọn (Ẩn ngầm)' trong Dialog cào AI: Cho phép ẩn bảng tiến trình để tiếp tục xem TV không bị che màn hình.\n• 3. Floating Mini Pill Banner: Hiển thị thanh tiến độ nhỏ gọn ở góc trên màn hình, chạm vào bất kỳ lúc nào để Mở Rộng xem lại chi tiết.\n• 4. Tự động áp dụng kết quả cào AI khi hoàn tất mà không làm gián đoạn kênh đang phát.\n• 5. Sạch 100% warnings biên dịch và vượt qua 100% 183 bài kiểm thử tự động.",
-  "body": "✨ Phiên bản v5.2.0 (Plan Ultra - Sửa Lỗi Kiểm Tra Nguồn AI & Thu Gọn Mini Pill Chạy Ngầm):\n• 1. Sửa dứt điểm lỗi Kiểm tra tỉ lệ sống nguồn phát cho các nguồn AI: Tự động phân giải chính xác file cache internal:// và tải đầy đủ kênh để kiểm tra liveness.\n• 2. Thêm nút 'Thu gọn (Ẩn ngầm)' trong Dialog cào AI: Cho phép ẩn bảng tiến trình để tiếp tục xem TV không bị che màn hình.\n• 3. Floating Mini Pill Banner: Hiển thị thanh tiến độ nhỏ gọn ở góc trên màn hình, chạm vào bất kỳ lúc nào để Mở Rộng xem lại chi tiết.\n• 4. Tự động áp dụng kết quả cào AI khi hoàn tất mà không làm gián đoạn kênh đang phát.\n• 5. Sạch 100% warnings biên dịch và vượt qua 100% 183 bài kiểm thử tự động."
+  "versionCode": 46,
+  "versionName": "5.3.0",
+  "tag_name": "v5.3.0",
+  "name": "XemTV v5.3.0",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.3.0.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.3.0.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.3.0.apk",
+  "apkSize": "5.38 MB",
+  "sha256": "40d0f11d69679412f6719835860425b1fbca654b24280e0b8d94471d6503d16a",
+  "changelog": "✨ Phiên bản v5.3.0 (Plan Ultra - Smart Tiered Playback Recovery & Skip Ingestion AI):\n• 1. Thuật toán Tự phục hồi Thông minh 2 Tầng: Khi mạng yếu hoặc chập chờn, hệ thống ưu tiên kết nối lại chính nguồn đang phát (In-Place Reconnect tối đa 2 lần) với độ trễ 400ms thay vì vội vàng nhảy sang nguồn khác, giữ trọn nguồn HD đang xem mượt mà.\n• 2. Chỉ fallback sang nguồn dự phòng khi đã thử kết nối lại nguồn hiện tại 2 lần liên tiếp mà vẫn thất bại hoặc gặp lỗi HTTP chết vĩnh viễn (404/410).\n• 3. Nút '⚡ Thẩm định ngay (Bỏ qua cào)': Cho phép dừng quét các nguồn internet còn lại và lập tức chuyển các link đã cào sang Giai đoạn Thẩm định AI 3 Lớp.\n• 4. Vượt qua 100% 184 bài kiểm thử tự động, sạch 100% warnings.",
+  "body": "✨ Phiên bản v5.3.0 (Plan Ultra - Smart Tiered Playback Recovery & Skip Ingestion AI):\n• 1. Thuật toán Tự phục hồi Thông minh 2 Tầng: Khi mạng yếu hoặc chập chờn, hệ thống ưu tiên kết nối lại chính nguồn đang phát (In-Place Reconnect tối đa 2 lần) với độ trễ 400ms thay vì vội vàng nhảy sang nguồn khác, giữ trọn nguồn HD đang xem mượt mà.\n• 2. Chỉ fallback sang nguồn dự phòng khi đã thử kết nối lại nguồn hiện tại 2 lần liên tiếp mà vẫn thất bại hoặc gặp lỗi HTTP chết vĩnh viễn (404/410).\n• 3. Nút '⚡ Thẩm định ngay (Bỏ qua cào)': Cho phép dừng quét các nguồn internet còn lại và lập tức chuyển các link đã cào sang Giai đoạn Thẩm định AI 3 Lớp.\n• 4. Vượt qua 100% 184 bài kiểm thử tự động, sạch 100% warnings."
 }
