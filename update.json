@@ -1,13 +1,13 @@
 {
-  "versionCode": 39,
-  "versionName": "4.8.0",
-  "tag_name": "v4.8.0",
-  "name": "XemTV v4.8.0",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.8.0.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.8.0.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.8.0.apk",
+  "versionCode": 40,
+  "versionName": "4.9.0",
+  "tag_name": "v4.9.0",
+  "name": "XemTV v4.9.0",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.9.0.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.9.0.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.9.0.apk",
   "apkSize": "5.3 MB",
-  "sha256": "2ecb47a46bf4319846d2f0b4122bb92dca2c0e64f4d4ddb949b65e466c87b8ed",
-  "changelog": "🚀 Phiên bản v4.8.0 (Plan Ultra Toàn Diện - Multi-Mirror OTA & Cào Nguồn Internet Tùy Chọn):\n• Sửa triệt để lỗi tải cập nhật thất bại với Động cơ tải Đa Gương (Multi-Mirror OTA Engine - Tự động chuyển mạch 3 Mirror: GitHub Releases, GitHub Raw, và Fast CDN Proxy).\n• Mở rộng Động cơ AI Cào Link Internet không giới hạn với 2 chế độ (Cào Tiêu Chuẩn & Cào Mở Rộng Internet tùy chọn số lượng 10 - 100 nguồn).\n• Tích hợp danh bạ hơn 60+ nguồn IPTV mở quốc tế & Việt Nam (Thể thao trực tiếp, Phim ảnh HBO, SCTV, VTVCab, K+, Đông Nam Á).\n• Quy trình kiểm định & thẩm định 3 lớp chuyên sâu (HTTP + MPEG-TS 32KB Sync 0x47 + AI Semantic Verification).",
-  "body": "🚀 Phiên bản v4.8.0 (Plan Ultra Toàn Diện - Multi-Mirror OTA & Cào Nguồn Internet Tùy Chọn):\n• Sửa triệt để lỗi tải cập nhật thất bại với Động cơ tải Đa Gương (Multi-Mirror OTA Engine - Tự động chuyển mạch 3 Mirror: GitHub Releases, GitHub Raw, và Fast CDN Proxy).\n• Mở rộng Động cơ AI Cào Link Internet không giới hạn với 2 chế độ (Cào Tiêu Chuẩn & Cào Mở Rộng Internet tùy chọn số lượng 10 - 100 nguồn).\n• Tích hợp danh bạ hơn 60+ nguồn IPTV mở quốc tế & Việt Nam (Thể thao trực tiếp, Phim ảnh HBO, SCTV, VTVCab, K+, Đông Nam Á).\n• Quy trình kiểm định & thẩm định 3 lớp chuyên sâu (HTTP + MPEG-TS 32KB Sync 0x47 + AI Semantic Verification)."
+  "sha256": "e9ba260fdb4f65c05051fd83b675a1a14801ca04e0d1056bf80cb724ac2a0a07",
+  "changelog": "🚀 Phiên bản v4.9.0 (Plan Ultra - Sửa Lỗi Fallback Phát Danh Sách AI & Đọc Cache internal://):\n• Sửa triệt để lỗi khi chọn danh sách cào AI bị fallback về nguồn mặc định (Đã sửa bộ định tuyến cacheFileFor và getCustomChannels nhận diện chính xác các phân vùng internal://ai_vtv_ và internal://ai_custom_).\n• Tối ưu chooseCustomSources tự động ưu tiên các luồng AI sống chất lượng cao nhất khi phát kênh.\n• Nâng cấp Động cơ cào Internet N nguồn tùy chọn (10 - 100 nguồn) và Động cơ tải OTA Đa Gương (Multi-Mirror Engine).",
+  "body": "🚀 Phiên bản v4.9.0 (Plan Ultra - Sửa Lỗi Fallback Phát Danh Sách AI & Đọc Cache internal://):\n• Sửa triệt để lỗi khi chọn danh sách cào AI bị fallback về nguồn mặc định (Đã sửa bộ định tuyến cacheFileFor và getCustomChannels nhận diện chính xác các phân vùng internal://ai_vtv_ và internal://ai_custom_).\n• Tối ưu chooseCustomSources tự động ưu tiên các luồng AI sống chất lượng cao nhất khi phát kênh.\n• Nâng cấp Động cơ cào Internet N nguồn tùy chọn (10 - 100 nguồn) và Động cơ tải OTA Đa Gương (Multi-Mirror Engine)."
 }
