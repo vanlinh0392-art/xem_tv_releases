@@ -1,13 +1,13 @@
 {
-  "versionCode": 42,
-  "versionName": "4.11.0",
-  "tag_name": "v4.11.0",
-  "name": "XemTV v4.11.0",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.11.0.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.11.0.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.11.0.apk",
-  "apkSize": "5.36 MB",
-  "sha256": "7c0044a87b3c208b05da081a9fabf4babd9efdd49eddf7ed6b3cbe79672c4ff2",
-  "changelog": "🎨 Phiên bản v4.11.0 (Plan Ultra - Thiết kế Giao diện Tinh Gọn Icon-Only & Tối Ưu Menu 5 Phương Án):\n• Chuyển đổi 100% nút bấm sang Icon Vector tinh gọn không dùng text: Đảo nổi kính mờ Video Controls, Viên thuốc điều khiển dưới video, Tab Bar Segmented 4 icon cân đối và Toolbar Quick Action trong cài đặt.\n• Tối ưu công thái học theo tiêu chuẩn ui-ux-pro-max (Touch size >= 44dp, hiệu ứng ripple, viền vàng Play/Pause nổi bật, chống tràn mép).\n• Đầy đủ contentDescription và hỗ trợ mượt mà trên cả Mobile màn hình dọc/ngang lẫn Android TV D-Pad.",
-  "body": "🎨 Phiên bản v4.11.0 (Plan Ultra - Thiết kế Giao diện Tinh Gọn Icon-Only & Tối Ưu Menu 5 Phương Án):\n• Chuyển đổi 100% nút bấm sang Icon Vector tinh gọn không dùng text: Đảo nổi kính mờ Video Controls, Viên thuốc điều khiển dưới video, Tab Bar Segmented 4 icon cân đối và Toolbar Quick Action trong cài đặt.\n• Tối ưu công thái học theo tiêu chuẩn ui-ux-pro-max (Touch size >= 44dp, hiệu ứng ripple, viền vàng Play/Pause nổi bật, chống tràn mép).\n• Đầy đủ contentDescription và hỗ trợ mượt mà trên cả Mobile màn hình dọc/ngang lẫn Android TV D-Pad."
+  "versionCode": 43,
+  "versionName": "5.0.0",
+  "tag_name": "v5.0.0",
+  "name": "XemTV v5.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.0.0.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.0.0.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.0.0.apk",
+  "apkSize": "5.37 MB",
+  "sha256": "e0ac92631ac7e52805ed400ac1f82ade43821ef9faf83f469c0448b52cd84d0f",
+  "changelog": "🚀 Phiên bản v5.0.0 (Plan Ultra - Nâng Cấp Toàn Diện Cào Link Bằng AI & Tinh Gọn Nút Bấm Mobile):\n• Động cơ cào AI Turbo Ingestion: Nạp song song 10 nguồn cùng lúc, tăng tốc cào gấp 5 lần (xong trong dưới 5 giây).\n• AI Semantic Query Expander: Tự động nhận diện từ khóa tiếng Việt không dấu và sinh alias thông minh (SCTV, K+ Sport, Ngoại Hạng Anh, Cúp C1, CLB Bóng đá, HBO...).\n• Bitrate & Quality Auto-Ranker: Tự động xếp hạng luồng 1080p60fps và độ trễ thấp lên vị trí số 1.\n• Chế độ Nguồn AI độc quyền: Khi chọn nguồn AI cào, danh sách chỉ hiển thị đúng các kênh khả dụng của AI, hiển thị 100% không bị lọc nhóm.\n• Tinh gọn giao diện Mobile dọc: Thu nhỏ nút điều khiển Capsule (38dp) và Tab Bar (36dp) nhỏ gọn, thanh thoát, không che màn hình.\n• Sạch 100% warnings biên dịch và vượt qua 100% bộ kiểm thử tự động.",
+  "body": "🚀 Phiên bản v5.0.0 (Plan Ultra - Nâng Cấp Toàn Diện Cào Link Bằng AI & Tinh Gọn Nút Bấm Mobile):\n• Động cơ cào AI Turbo Ingestion: Nạp song song 10 nguồn cùng lúc, tăng tốc cào gấp 5 lần (xong trong dưới 5 giây).\n• AI Semantic Query Expander: Tự động nhận diện từ khóa tiếng Việt không dấu và sinh alias thông minh (SCTV, K+ Sport, Ngoại Hạng Anh, Cúp C1, CLB Bóng đá, HBO...).\n• Bitrate & Quality Auto-Ranker: Tự động xếp hạng luồng 1080p60fps và độ trễ thấp lên vị trí số 1.\n• Chế độ Nguồn AI độc quyền: Khi chọn nguồn AI cào, danh sách chỉ hiển thị đúng các kênh khả dụng của AI, hiển thị 100% không bị lọc nhóm.\n• Tinh gọn giao diện Mobile dọc: Thu nhỏ nút điều khiển Capsule (38dp) và Tab Bar (36dp) nhỏ gọn, thanh thoát, không che màn hình.\n• Sạch 100% warnings biên dịch và vượt qua 100% bộ kiểm thử tự động."
 }
