@@ -1,13 +1,13 @@
 {
-  "versionCode": 37,
-  "versionName": "4.6.0",
-  "tag_name": "v4.6.0",
-  "name": "XemTV v4.6.0",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.6.0.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.6.0.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.6.0.apk",
+  "versionCode": 39,
+  "versionName": "4.8.0",
+  "tag_name": "v4.8.0",
+  "name": "XemTV v4.8.0",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.8.0.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.8.0.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.8.0.apk",
   "apkSize": "5.3 MB",
-  "sha256": "4c0ea820aad4ced2e53a681a6f2558397650e7cffb839daabf902f9f4a631afb",
-  "changelog": "🤖 Phiên bản v4.6.0 (Plan Ultra - AI Source Fix & Mobile Orientation Lock):\n• Sửa triệt để lỗi hiển thị nhãn nguồn phát khi chọn nguồn AI (gán nhãn chuẩn 🤖 Nguồn AI Tự Động • FPT VIP CDN / VTVGo OTT).\n• Tối ưu cơ chế chuẩn hóa tên kênh DB (loại bỏ tag [AI ...] và độ phân giải khi ghép kênh hệ thống).\n• Bổ sung tính năng Khóa Xoay Màn Hình Mobile 3 chế độ (Tự động xoay, Khóa dọc, Khóa ngang) cả trong thanh điều khiển Player và trong Cài đặt.\n• Cải tiến hộp thoại tải cập nhật với ProgressBar % và Live MB thời gian thực.",
-  "body": "🤖 Phiên bản v4.6.0 (Plan Ultra - AI Source Fix & Mobile Orientation Lock):\n• Sửa triệt để lỗi hiển thị nhãn nguồn phát khi chọn nguồn AI (gán nhãn chuẩn 🤖 Nguồn AI Tự Động • FPT VIP CDN / VTVGo OTT).\n• Tối ưu cơ chế chuẩn hóa tên kênh DB (loại bỏ tag [AI ...] và độ phân giải khi ghép kênh hệ thống).\n• Bổ sung tính năng Khóa Xoay Màn Hình Mobile 3 chế độ (Tự động xoay, Khóa dọc, Khóa ngang) cả trong thanh điều khiển Player và trong Cài đặt.\n• Cải tiến hộp thoại tải cập nhật với ProgressBar % và Live MB thời gian thực."
+  "sha256": "2ecb47a46bf4319846d2f0b4122bb92dca2c0e64f4d4ddb949b65e466c87b8ed",
+  "changelog": "🚀 Phiên bản v4.8.0 (Plan Ultra Toàn Diện - Multi-Mirror OTA & Cào Nguồn Internet Tùy Chọn):\n• Sửa triệt để lỗi tải cập nhật thất bại với Động cơ tải Đa Gương (Multi-Mirror OTA Engine - Tự động chuyển mạch 3 Mirror: GitHub Releases, GitHub Raw, và Fast CDN Proxy).\n• Mở rộng Động cơ AI Cào Link Internet không giới hạn với 2 chế độ (Cào Tiêu Chuẩn & Cào Mở Rộng Internet tùy chọn số lượng 10 - 100 nguồn).\n• Tích hợp danh bạ hơn 60+ nguồn IPTV mở quốc tế & Việt Nam (Thể thao trực tiếp, Phim ảnh HBO, SCTV, VTVCab, K+, Đông Nam Á).\n• Quy trình kiểm định & thẩm định 3 lớp chuyên sâu (HTTP + MPEG-TS 32KB Sync 0x47 + AI Semantic Verification).",
+  "body": "🚀 Phiên bản v4.8.0 (Plan Ultra Toàn Diện - Multi-Mirror OTA & Cào Nguồn Internet Tùy Chọn):\n• Sửa triệt để lỗi tải cập nhật thất bại với Động cơ tải Đa Gương (Multi-Mirror OTA Engine - Tự động chuyển mạch 3 Mirror: GitHub Releases, GitHub Raw, và Fast CDN Proxy).\n• Mở rộng Động cơ AI Cào Link Internet không giới hạn với 2 chế độ (Cào Tiêu Chuẩn & Cào Mở Rộng Internet tùy chọn số lượng 10 - 100 nguồn).\n• Tích hợp danh bạ hơn 60+ nguồn IPTV mở quốc tế & Việt Nam (Thể thao trực tiếp, Phim ảnh HBO, SCTV, VTVCab, K+, Đông Nam Á).\n• Quy trình kiểm định & thẩm định 3 lớp chuyên sâu (HTTP + MPEG-TS 32KB Sync 0x47 + AI Semantic Verification)."
 }
