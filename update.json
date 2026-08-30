@@ -1,13 +1,13 @@
 {
-  "versionCode": 36,
-  "versionName": "4.5.0",
-  "tag_name": "v4.5.0",
-  "name": "XemTV v4.5.0",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.5.0.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.5.0.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.5.0.apk",
+  "versionCode": 37,
+  "versionName": "4.6.0",
+  "tag_name": "v4.6.0",
+  "name": "XemTV v4.6.0",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.6.0.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.6.0.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v4.6.0.apk",
   "apkSize": "5.3 MB",
-  "sha256": "f612219532d36c2ecda24f0dd2e96c474ee75179b34f52f2934c564f774b5e7b",
-  "changelog": "🤖 Phiên bản v4.5.0 (Plan Ultra 7-Day & AI Discovery Pro):\n• Khắc phục hoàn toàn lỗi tải file cập nhật trên Mobile và Android TV (hiển thị Dialog tiến trình tải trực quan MB/ProgressBar).\n• Hỗ trợ toàn diện quyền cài đặt APK (Unknown App Sources) trên Android 8+.\n• Bổ sung cấu hình FileProvider đầy đủ (external-files-path).\n• Cơ sở dữ liệu 7-Day TTL Database (ai_vtv_metrics.json) lưu trữ phân vùng danh sách M3U và điểm sức khỏe kênh.\n• Tự động dọn dẹp playlist cũ hơn 7 ngày, giữ lại 3-5 bản quét ổn định nhất.\n• Động cơ khám phá & đồng bộ Model AI Free (Dynamic Free Model Sync) trực tiếp từ OpenRouter.\n• Menu Cài đặt AI Scraper linh hoạt: Chọn Provider, Model Free, Ngưỡng tin cậy (75%-95%), thêm Nguồn Cào M3U bổ sung.",
-  "body": "🤖 Phiên bản v4.5.0 (Plan Ultra 7-Day & AI Discovery Pro):\n• Khắc phục hoàn toàn lỗi tải file cập nhật trên Mobile và Android TV (hiển thị Dialog tiến trình tải trực quan MB/ProgressBar).\n• Hỗ trợ toàn diện quyền cài đặt APK (Unknown App Sources) trên Android 8+.\n• Bổ sung cấu hình FileProvider đầy đủ (external-files-path).\n• Cơ sở dữ liệu 7-Day TTL Database (ai_vtv_metrics.json) lưu trữ phân vùng danh sách M3U và điểm sức khỏe kênh.\n• Tự động dọn dẹp playlist cũ hơn 7 ngày, giữ lại 3-5 bản quét ổn định nhất.\n• Động cơ khám phá & đồng bộ Model AI Free (Dynamic Free Model Sync) trực tiếp từ OpenRouter.\n• Menu Cài đặt AI Scraper linh hoạt: Chọn Provider, Model Free, Ngưỡng tin cậy (75%-95%), thêm Nguồn Cào M3U bổ sung."
+  "sha256": "4c0ea820aad4ced2e53a681a6f2558397650e7cffb839daabf902f9f4a631afb",
+  "changelog": "🤖 Phiên bản v4.6.0 (Plan Ultra - AI Source Fix & Mobile Orientation Lock):\n• Sửa triệt để lỗi hiển thị nhãn nguồn phát khi chọn nguồn AI (gán nhãn chuẩn 🤖 Nguồn AI Tự Động • FPT VIP CDN / VTVGo OTT).\n• Tối ưu cơ chế chuẩn hóa tên kênh DB (loại bỏ tag [AI ...] và độ phân giải khi ghép kênh hệ thống).\n• Bổ sung tính năng Khóa Xoay Màn Hình Mobile 3 chế độ (Tự động xoay, Khóa dọc, Khóa ngang) cả trong thanh điều khiển Player và trong Cài đặt.\n• Cải tiến hộp thoại tải cập nhật với ProgressBar % và Live MB thời gian thực.",
+  "body": "🤖 Phiên bản v4.6.0 (Plan Ultra - AI Source Fix & Mobile Orientation Lock):\n• Sửa triệt để lỗi hiển thị nhãn nguồn phát khi chọn nguồn AI (gán nhãn chuẩn 🤖 Nguồn AI Tự Động • FPT VIP CDN / VTVGo OTT).\n• Tối ưu cơ chế chuẩn hóa tên kênh DB (loại bỏ tag [AI ...] và độ phân giải khi ghép kênh hệ thống).\n• Bổ sung tính năng Khóa Xoay Màn Hình Mobile 3 chế độ (Tự động xoay, Khóa dọc, Khóa ngang) cả trong thanh điều khiển Player và trong Cài đặt.\n• Cải tiến hộp thoại tải cập nhật với ProgressBar % và Live MB thời gian thực."
 }
