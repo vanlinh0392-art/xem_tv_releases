@@ -1,13 +1,13 @@
 {
-  "versionCode": 44,
-  "versionName": "5.1.0",
-  "tag_name": "v5.1.0",
-  "name": "XemTV v5.1.0",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.1.0.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.1.0.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.1.0.apk",
+  "versionCode": 45,
+  "versionName": "5.2.0",
+  "tag_name": "v5.2.0",
+  "name": "XemTV v5.2.0",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.2.0.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.2.0.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/download/XemTV_v5.2.0.apk",
   "apkSize": "5.37 MB",
-  "sha256": "2bb7d8a4ed00075e6f80e0bc7d46ddef9fc21ae4924b09280943f8fab5276635",
-  "changelog": "🛡️ Phiên bản v5.1.0 (Plan Ultra - Khắc Phục Triệt Để 4 Điểm Yếu Hệ Thống & Tối Ưu Bật Kênh Siêu Tốc):\n• 1. Tự động Fallback CDN Mirror (fastly.jsdelivr.net / cdn.jsdelivr.net) khi gặp nhà mạng chặn raw.githubusercontent.com.\n• 2. Giới hạn Stream Buffer 1.5MB chống tràn RAM & GC pause trên Android TV Box 1GB/2GB.\n• 3. Fast Failover 400ms: Tự động hoán đổi luồng AI dự phòng trong urlSourceCustomList ngay khi có sự cố mạng.\n• 4. Fast LoadControl: Bật video và chuyển kênh tức thì dưới 400ms (bufferForPlaybackMs = 400ms).\n• 5. Sạch 100% warnings và vượt qua 100% 182 bài kiểm thử tự động.",
-  "body": "🛡️ Phiên bản v5.1.0 (Plan Ultra - Khắc Phục Triệt Để 4 Điểm Yếu Hệ Thống & Tối Ưu Bật Kênh Siêu Tốc):\n• 1. Tự động Fallback CDN Mirror (fastly.jsdelivr.net / cdn.jsdelivr.net) khi gặp nhà mạng chặn raw.githubusercontent.com.\n• 2. Giới hạn Stream Buffer 1.5MB chống tràn RAM & GC pause trên Android TV Box 1GB/2GB.\n• 3. Fast Failover 400ms: Tự động hoán đổi luồng AI dự phòng trong urlSourceCustomList ngay khi có sự cố mạng.\n• 4. Fast LoadControl: Bật video và chuyển kênh tức thì dưới 400ms (bufferForPlaybackMs = 400ms).\n• 5. Sạch 100% warnings và vượt qua 100% 182 bài kiểm thử tự động."
+  "sha256": "485d108900b95660b843d7d6128b770c1d45bf336b9f401b2d7339d122e733df",
+  "changelog": "✨ Phiên bản v5.2.0 (Plan Ultra - Sửa Lỗi Kiểm Tra Nguồn AI & Thu Gọn Mini Pill Chạy Ngầm):\n• 1. Sửa dứt điểm lỗi Kiểm tra tỉ lệ sống nguồn phát cho các nguồn AI: Tự động phân giải chính xác file cache internal:// và tải đầy đủ kênh để kiểm tra liveness.\n• 2. Thêm nút 'Thu gọn (Ẩn ngầm)' trong Dialog cào AI: Cho phép ẩn bảng tiến trình để tiếp tục xem TV không bị che màn hình.\n• 3. Floating Mini Pill Banner: Hiển thị thanh tiến độ nhỏ gọn ở góc trên màn hình, chạm vào bất kỳ lúc nào để Mở Rộng xem lại chi tiết.\n• 4. Tự động áp dụng kết quả cào AI khi hoàn tất mà không làm gián đoạn kênh đang phát.\n• 5. Sạch 100% warnings biên dịch và vượt qua 100% 183 bài kiểm thử tự động.",
+  "body": "✨ Phiên bản v5.2.0 (Plan Ultra - Sửa Lỗi Kiểm Tra Nguồn AI & Thu Gọn Mini Pill Chạy Ngầm):\n• 1. Sửa dứt điểm lỗi Kiểm tra tỉ lệ sống nguồn phát cho các nguồn AI: Tự động phân giải chính xác file cache internal:// và tải đầy đủ kênh để kiểm tra liveness.\n• 2. Thêm nút 'Thu gọn (Ẩn ngầm)' trong Dialog cào AI: Cho phép ẩn bảng tiến trình để tiếp tục xem TV không bị che màn hình.\n• 3. Floating Mini Pill Banner: Hiển thị thanh tiến độ nhỏ gọn ở góc trên màn hình, chạm vào bất kỳ lúc nào để Mở Rộng xem lại chi tiết.\n• 4. Tự động áp dụng kết quả cào AI khi hoàn tất mà không làm gián đoạn kênh đang phát.\n• 5. Sạch 100% warnings biên dịch và vượt qua 100% 183 bài kiểm thử tự động."
 }
