@@ -1,13 +1,13 @@
 {
-  "versionCode": 57,
-  "versionName": "5.8.3",
+  "versionCode": 58,
+  "versionName": "5.8.4",
   "minSupportedVersion": 35,
-  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.3.apk",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.3.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.3.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.3.apk",
-  "fileSize": 5700423,
-  "sha256": "3ed1c553d1c76152d332403f1185fc1bb05ebc0d9011a285f063c84b5cb963e7",
+  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.4.apk",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.4.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.4.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.4.apk",
+  "fileSize": 5700407,
+  "sha256": "c6240fdccf7d713f53d761ba38ab85aacf2cac373b54af30d123e085845e15f8",
   "releaseDate": "2026-08-31",
-  "changelog": "🚀 XemTV v5.8.3 - Nâng Cấp Viền Focus TV Rực Rỡ & Tối Ưu Giao Diện AI:\n- 🎨 Viền bo sáng màu dạ quang/vàng kim 3dp cho tất cả nút bấm, RadioButtons và CheckBoxes trên Android TV Remote.\n- 🛡️ Triệt tiêu hoàn toàn nguy cơ crash RecyclerView Inconsistency bằng SafeLinearLayoutManager.\n- 📁 Mặc định tích chọn hiển thị toàn bộ tất cả nhóm kênh.\n- 🤖 Tăng gấp đôi kích thước các nút bấm trong Trung Tâm Tác Tử AI và Cập Nhật OTA dễ quan sát từ xa."
+  "changelog": "🚀 XemTV v5.8.4 - Sửa Lỗi Nhảy Kênh & Hoàn Thiện Điều Hướng TV Remote:\n- 🎯 Sửa triệt để lỗi khi chọn kênh khác từ danh sách bên trái bị nhảy về kênh đầu tiên (loại bỏ cướp focus trong DpadNavigationHandler).\n- 🛡️ Cấp phát dải ID tăng dần duy nhất (10000+) cho các kênh custom ngoại tuyến."
 }
