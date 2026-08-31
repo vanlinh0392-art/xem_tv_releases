@@ -1,13 +1,13 @@
 {
-  "versionCode": 55,
-  "versionName": "5.8.1",
+  "versionCode": 56,
+  "versionName": "5.8.2",
   "minSupportedVersion": 35,
-  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.1.apk",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.1.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.1.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.1.apk",
-  "fileSize": 5695074,
-  "sha256": "81899c09064359036c6f00a3614395720b3518d91cf364f3ff7b7f607903d8f0",
+  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.2.apk",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.2.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.2.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.2.apk",
+  "fileSize": 5695922,
+  "sha256": "7ecf34609f19afada0ebe490662c11d6c7f8303d56c14a787351b491c4f4eef3",
   "releaseDate": "2026-08-31",
-  "changelog": "🚀 XemTV v5.8.1 - Bản Nâng Cấp Tối Ưu Hóa & Gia Cố Tính Ổn Định (Technical Advisor Pro Max):\n- 🎮 Tối ưu điều hướng D-pad Android TV trên Tabbed Overlay: Định hướng nextFocus rõ ràng, chuyển tab mượt mà.\n- 🛡️ Bọc an toàn 100% Dialog (safeShowDialog & safeToast): Triệt tiêu hoàn toàn BadTokenException khi thao tác nhanh.\n- 🧹 Tự động giải phóng cache báo cáo SourceHealthChecker khi xóa nguồn IPTV/kho AI.\n- 🔒 Sanitize & làm sạch URL đầu vào an toàn (Zero-Trust Input)."
+  "changelog": "🚀 XemTV v5.8.2 - Cải Tiến OTA & Lưới Gợi Ý Tìm Kiếm 9 Nút (3x3):\n- 🔍 Thiết kế 9 nút gợi ý nhanh điền ô tìm kiếm cào kênh/trận đấu theo lưới 3x3 kích thước bằng nhau tuyệt đối.\n- 🚀 Sửa triệt để lỗi kiểm tra cập nhật OTA: Hỗ trợ đa endpoint CDN mirror (GitHub raw + jsDelivr) và parse linh hoạt mọi trường downloadUrl/apkUrl."
 }
