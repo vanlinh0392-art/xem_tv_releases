@@ -1,13 +1,13 @@
 {
-  "versionCode": 56,
-  "versionName": "5.8.2",
+  "versionCode": 57,
+  "versionName": "5.8.3",
   "minSupportedVersion": 35,
-  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.2.apk",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.2.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.2.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.2.apk",
-  "fileSize": 5695922,
-  "sha256": "7ecf34609f19afada0ebe490662c11d6c7f8303d56c14a787351b491c4f4eef3",
+  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.3.apk",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.3.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.3.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.3.apk",
+  "fileSize": 5700423,
+  "sha256": "3ed1c553d1c76152d332403f1185fc1bb05ebc0d9011a285f063c84b5cb963e7",
   "releaseDate": "2026-08-31",
-  "changelog": "🚀 XemTV v5.8.2 - Cải Tiến OTA & Lưới Gợi Ý Tìm Kiếm 9 Nút (3x3):\n- 🔍 Thiết kế 9 nút gợi ý nhanh điền ô tìm kiếm cào kênh/trận đấu theo lưới 3x3 kích thước bằng nhau tuyệt đối.\n- 🚀 Sửa triệt để lỗi kiểm tra cập nhật OTA: Hỗ trợ đa endpoint CDN mirror (GitHub raw + jsDelivr) và parse linh hoạt mọi trường downloadUrl/apkUrl."
+  "changelog": "🚀 XemTV v5.8.3 - Nâng Cấp Viền Focus TV Rực Rỡ & Tối Ưu Giao Diện AI:\n- 🎨 Viền bo sáng màu dạ quang/vàng kim 3dp cho tất cả nút bấm, RadioButtons và CheckBoxes trên Android TV Remote.\n- 🛡️ Triệt tiêu hoàn toàn nguy cơ crash RecyclerView Inconsistency bằng SafeLinearLayoutManager.\n- 📁 Mặc định tích chọn hiển thị toàn bộ tất cả nhóm kênh.\n- 🤖 Tăng gấp đôi kích thước các nút bấm trong Trung Tâm Tác Tử AI và Cập Nhật OTA dễ quan sát từ xa."
 }
