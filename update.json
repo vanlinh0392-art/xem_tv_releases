@@ -1,13 +1,13 @@
 {
-  "versionCode": 61,
-  "versionName": "5.8.7",
+  "versionCode": 62,
+  "versionName": "5.8.8",
   "minSupportedVersion": 35,
-  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.7.apk",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.7.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.7.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.7.apk",
-  "fileSize": 5701071,
-  "sha256": "ce1ef1ddbff060883f065c74baee51524bef1c3aaec4beb931bbf214ff576b74",
+  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.8.apk",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.8.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.8.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.8.apk",
+  "fileSize": 5700099,
+  "sha256": "9e264639881f0b9b970d096e80fc4ae487c18c0a21158fca4dda5ad837798eef",
   "releaseDate": "2026-08-31",
-  "changelog": "🚀 XemTV v5.8.7 - Bản Phát Hành Chuẩn (OTA & Đầy Đủ Tính Năng):\n- 📐 Tăng 1/3 độ rộng panel danh sách kênh bên trái (426dp trên TV).\n- 🔤 Tăng thêm 1 size cho Tên kênh (17sp) và Lịch phát sóng EPG (12sp).\n- ⚡ Tối ưu giải mã MStar/MediaTek VDEC: Giải phóng tức thì MediaCodec khi bấm Home/thoát app (0% crash Launcher TV).\n- 🚀 Đầy đủ tính năng cập nhật OTA tự động qua GitHub."
+  "changelog": "🚀 XemTV v5.8.8 - Bản Nâng Cấp Toàn Diện Cào Luồng & Tác Tử AI:\n- 🛡️ Zero-Trust SSRF & Safe URL Validator: Chống rò rỉ và tấn công qua DNS rebinding, IPv6, private metadata.\n- ⚡ Sticky Master Context trong DataSource: Giữ nguyên Referer/Origin khi tải sub-segments TS/M4S trên Akamai/VNPT Edge CDN (Triệt tiêu lỗi 403 Forbidden).\n- 🧹 Giảm 75% Token Context với Mini-Tool Schemas + Action Deduplication chống lặp hành động ReAct.\n- ⚡ Tăng tốc x5 lần với HTTP Keep-Alive Connection Pool và song song hóa Heuristic Discovery.\n- 📺 Tích hợp Hot-Play: Phát ngay luồng đầu tiên đạt chuẩn sau 2-3s trong khi tiếp tục quét dự phòng ngầm.\n- 🛡️ Khắc phục 100% Compiler Warnings & Null-Safety, vượt qua toàn bộ Unit Tests."
 }
