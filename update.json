@@ -1,13 +1,13 @@
 {
-  "versionCode": 58,
-  "versionName": "5.8.4",
+  "versionCode": 59,
+  "versionName": "5.8.5",
   "minSupportedVersion": 35,
-  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.4.apk",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.4.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.4.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.4.apk",
-  "fileSize": 5700407,
-  "sha256": "c6240fdccf7d713f53d761ba38ab85aacf2cac373b54af30d123e085845e15f8",
+  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.5.apk",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.5.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.5.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.5.apk",
+  "fileSize": 5700879,
+  "sha256": "5b30509daa4d1cb2f011c7fb88113b052d544fc58dff44d5471f04e71c280ca6",
   "releaseDate": "2026-08-31",
-  "changelog": "🚀 XemTV v5.8.4 - Sửa Lỗi Nhảy Kênh & Hoàn Thiện Điều Hướng TV Remote:\n- 🎯 Sửa triệt để lỗi khi chọn kênh khác từ danh sách bên trái bị nhảy về kênh đầu tiên (loại bỏ cướp focus trong DpadNavigationHandler).\n- 🛡️ Cấp phát dải ID tăng dần duy nhất (10000+) cho các kênh custom ngoại tuyến."
+  "changelog": "🚀 XemTV v5.8.5 - Tối Ưu Giải Mã Phần Cứng MStar/MediaTek & Chống Vòng Lặp Phục Hồi:\n- ⚡ Bật DefaultRenderersFactory.setEnableDecoderFallback(true): Tự động chuyển sang phần mềm khi MStar VDEC MMA bị launcher/app nền chiếm dụng.\n- ⏱️ Nâng ngưỡng Watchdog lên 6s (Initial) và 5s (Rebuffer), hủy watchdog tức thì khi render frame đầu.\n- 🛡️ Chống blacklist nhầm nguồn tốt vào StreamErrorCache khi chỉ lag tạm thời.\n- 📦 Cân chỉnh LoadControl 4s - 15s cho luồng phát ổn định tuyệt đối."
 }
