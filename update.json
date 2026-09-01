@@ -6,8 +6,8 @@
   "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.0.0.apk",
   "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.0.0.apk",
   "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.0.0.apk",
-  "fileSize": 5792991,
-  "sha256": "2d7b3490a230d0139b00e5beae88240b792a011829d63a7af4cb823877fa885b",
-  "releaseDate": "2026-09-01",
-  "changelog": "🚀 XemTV v6.0.0: Phân tách 2 bản phát hành độc lập (Bản Chuẩn OTA & Bản Standalone Offline Local ngắt kết nối hoàn toàn OTA/GitHub)."
+  "fileSize": 5802015,
+  "sha256": "87aa534317e1e5311f9883acd068b880bb48859f10e9b1fbc7f294f9aee7b60a",
+  "releaseDate": "2026-09-02",
+  "changelog": "🚀 XemTV v6.0.0: Cập nhật bản phát hành chuẩn với hệ thống kiểm thử đa tầng và khắc phục toàn bộ 46 điểm lỗi."
 }
