@@ -1,13 +1,13 @@
 {
-  "versionCode": 62,
-  "versionName": "5.8.8",
+  "versionCode": 63,
+  "versionName": "5.9.0",
   "minSupportedVersion": 35,
-  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.8.apk",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.8.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.8.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.8.8.apk",
-  "fileSize": 5700099,
-  "sha256": "9e264639881f0b9b970d096e80fc4ae487c18c0a21158fca4dda5ad837798eef",
-  "releaseDate": "2026-08-31",
-  "changelog": "🚀 XemTV v5.8.8 - Bản Nâng Cấp Toàn Diện Cào Luồng & Tác Tử AI:\n- 🛡️ Zero-Trust SSRF & Safe URL Validator: Chống rò rỉ và tấn công qua DNS rebinding, IPv6, private metadata.\n- ⚡ Sticky Master Context trong DataSource: Giữ nguyên Referer/Origin khi tải sub-segments TS/M4S trên Akamai/VNPT Edge CDN (Triệt tiêu lỗi 403 Forbidden).\n- 🧹 Giảm 75% Token Context với Mini-Tool Schemas + Action Deduplication chống lặp hành động ReAct.\n- ⚡ Tăng tốc x5 lần với HTTP Keep-Alive Connection Pool và song song hóa Heuristic Discovery.\n- 📺 Tích hợp Hot-Play: Phát ngay luồng đầu tiên đạt chuẩn sau 2-3s trong khi tiếp tục quét dự phòng ngầm.\n- 🛡️ Khắc phục 100% Compiler Warnings & Null-Safety, vượt qua toàn bộ Unit Tests."
+  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.9.0.apk",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.9.0.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.9.0.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v5.9.0.apk",
+  "fileSize": 5765023,
+  "sha256": "d378261a5c0a657148b483df7ec2c255b64b6e9c3fd4b0a258214ea0334844c7",
+  "releaseDate": "2026-09-01",
+  "changelog": "🚀 XemTV v5.9.0 - Đột Phá Toàn Diện: Add Link IPTV & MPEG-DASH (.mpd):\n- 📺 Hỗ trợ 100% định dạng: M3U/M3U8, MPEG-DASH (.mpd), Xtream Codes API, Stalker Portal, JSON, TXT, Raw TS/MKV/MP4.\n- 🔐 Toàn diện DRM: ClearKey (JWK / Hex kid:key) và Widevine Modular, tự động trích xuất #KODIPROP & Pipe headers.\n- ⚡ 3-Tier Cross Verification: Kiểm chứng chéo 3 vòng (Cú pháp -> Mạng Range 1KB -> Headless ExoPlayer Decode).\n- 📱 Smart Input HUD & Web Remote: 1 ô nhập thông minh + Quét mã QR bằng điện thoại dán link sang TV trong 0.5s.\n- 🛡️ Zero-Trust SSRF & IP Pinning: Chống tấn công qua DNS rebinding, IPv6 loopback, cloud metadata.\n- ⚡ Sticky Master Context: Giữ nguyên Referer/Origin trên mọi CDN chunk (Akamai, Cloudflare, VNPT, Viettel, VieON).\n- 🧹 100% Clean: 0 Warning, 0 Error, vượt qua toàn bộ Unit Tests!"
 }
