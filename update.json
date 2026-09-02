@@ -1,13 +1,13 @@
 {
-  "versionCode": 67,
-  "versionName": "6.0.0",
+  "versionCode": 68,
+  "versionName": "6.1.0",
   "minSupportedVersion": 35,
-  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.0.0.apk",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.0.0.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.0.0.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.0.0.apk",
-  "fileSize": 5802015,
-  "sha256": "87aa534317e1e5311f9883acd068b880bb48859f10e9b1fbc7f294f9aee7b60a",
+  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.1.0.apk",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.1.0.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.1.0.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.1.0.apk",
+  "fileSize": 5812855,
+  "sha256": "ee367bd0b22364c3fb6fae33236a332bcf0f0742f104313bcf3d54d1d70ebaa3",
   "releaseDate": "2026-09-02",
-  "changelog": "🚀 XemTV v6.0.0: Cập nhật bản phát hành chuẩn với hệ thống kiểm thử đa tầng và khắc phục toàn bộ 46 điểm lỗi."
+  "changelog": "🌊 XemTV v6.1.0: Đột phá công nghệ phát mượt mà khi mạng yếu (Dynamic AdaptiveTvLoadControl, Smart ABR Laddering 480p-1080p, Zero-Interference Prebuffer, Audio-First 250ms & Freeze-Frame Failover)."
 }
