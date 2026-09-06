@@ -1,13 +1,13 @@
 {
-  "versionCode": 70,
-  "versionName": "6.3.0",
+  "versionCode": 71,
+  "versionName": "6.3.1",
   "minSupportedVersion": 35,
-  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.0.apk",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.0.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.0.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.0.apk",
-  "fileSize": 5818691,
-  "sha256": "e650d6897af36cef5aa8620b29ab1ef80b8f55b05c69ee083e6a3b1fc32fe71a",
-  "releaseDate": "2026-09-06",
-  "changelog": "📱 XemTV v6.3.0: Đột phá trải nghiệm Mobile - Tự động xoay ngang toàn màn hình 100% tràn viền (Immersive Sticky, Display Cutout tai thỏ), nút Fullscreen 1-chạm thông minh, không ngắt luồng video khi xoay."
+  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.1.apk",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.1.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.1.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.1.apk",
+  "fileSize": 5818767,
+  "sha256": "8d1778f22d3ded8a5d39d3baac1879f2ef49434744749988b0c99a6b67a22507",
+  "releaseDate": "2026-09-07",
+  "changelog": "🛡️ XemTV v6.3.1: Sửa lớp phủ mờ trên Samsung - Chuyển TextureView cho Mobile, loại bỏ màn trập ExoPlayer, triệt tiêu bug SurfaceView compositing trên One UI."
 }
