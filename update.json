@@ -1,13 +1,13 @@
 {
-  "versionCode": 71,
-  "versionName": "6.3.1",
+  "versionCode": 72,
+  "versionName": "6.3.2",
   "minSupportedVersion": 35,
-  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.1.apk",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.1.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.1.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.1.apk",
-  "fileSize": 5818767,
-  "sha256": "8d1778f22d3ded8a5d39d3baac1879f2ef49434744749988b0c99a6b67a22507",
+  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.2.apk",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.2.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.2.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.2.apk",
+  "fileSize": 5820911,
+  "sha256": "4119191812a9d3c9f831802411a1a1cda090974227ec1bd9805eeb7a0b4d8eb8",
   "releaseDate": "2026-09-07",
-  "changelog": "🛡️ XemTV v6.3.1: Sửa lớp phủ mờ trên Samsung - Chuyển TextureView cho Mobile, loại bỏ màn trập ExoPlayer, triệt tiêu bug SurfaceView compositing trên One UI."
+  "changelog": "XemTV v6.3.2: Sua loi OTA cai dat tren TV Box - 4 tang fallback (FileProvider/PackageInstaller/file URI/Settings)."
 }
