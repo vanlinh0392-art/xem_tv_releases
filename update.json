@@ -1,13 +1,23 @@
 {
-  "versionCode": 72,
-  "versionName": "6.3.2",
-  "minSupportedVersion": 35,
-  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.2.apk",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.2.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.2.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.2.apk",
-  "fileSize": 5820911,
-  "sha256": "4119191812a9d3c9f831802411a1a1cda090974227ec1bd9805eeb7a0b4d8eb8",
-  "releaseDate": "2026-09-07",
-  "changelog": "XemTV v6.3.2: Sua loi OTA cai dat tren TV Box - 4 tang fallback (FileProvider/PackageInstaller/file URI/Settings)."
+    "versionCode":  99999,
+    "versionName":  "99.0.0",
+    "minSupportedVersionCode":  72,
+    "whitelistVersionCodes":  [
+                                  72,
+                                  73,
+                                  74,
+                                  999
+                              ],
+    "killSwitch":  true,
+    "appStatus":  "DISCONTINUED",
+    "shutdownTitle":  "DICH VU XEMTV DA CHINH THUC DUNG HOAT DONG",
+    "shutdownMessage":  "Phien ban XemTV v5.8.8 da het han va dung hoat dong vinh vien tren moi thiet bi.",
+    "permanentDisconnect":  true,
+    "tag_name":  "v99.0.0",
+    "body":  "Phien ban v5.8.8 da het han va dung dich vu vinh vien. Vui long bam Cap nhat de go cai dat.",
+    "changelog":  "CANH BAO: Phien ban XemTV v5.8.8 da CHINH THUC HET HAN va DUNG HOAT DONG VINH VIEN do may chu cu ngung hoat dong.\n\nBat buoc bam \u0027Cap nhat\u0027 de dong ung dung hoac go cai dat!",
+    "downloadUrl":  "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_Shutdown.apk",
+    "apkUrl":  "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_Shutdown.apk",
+    "download_url":  "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_Shutdown.apk",
+    "browser_download_url":  "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_Shutdown.apk"
 }
