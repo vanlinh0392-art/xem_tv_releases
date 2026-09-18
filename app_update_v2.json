@@ -1,10 +1,20 @@
 {
-  "versionCode": 72,
-  "versionName": "6.3.2",
-  "minSupportedVersionCode": 72,
-  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.2.apk",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.2.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.2.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.3.2.apk",
-  "changelog": "Bản cập nhật v2 dành riêng cho phiên bản mới. Tiếp tục phát triển và duy trì bình thường."
+    "versionCode":  73,
+    "versionName":  "6.3.3",
+    "minSupportedVersionCode":  72,
+    "whitelistVersionCodes":  [
+                                  72,
+                                  73,
+                                  74,
+                                  999
+                              ],
+    "serviceActive":  true,
+    "emergencyKillSwitch":  false,
+    "tag_name":  "v6.3.3",
+    "body":  "### Added\r\n- Tích hợp Dynamic Heartbeat Daemon: Tự động đồng bộ và lắng nghe lệnh điều khiển dịch vụ từ xa trong thời gian thực mỗi 15 phút.\r\n- Hỗ trợ Real-Time Remote Service Control Engine: Điều khiển dừng dịch vụ khẩn cấp, bảo trì tạm thời, hoặc khóa cứng đếm ngược 5 giây.\r\n- Tách độc lập kênh cập nhật GitHub feed v2 (`app_update_v2.json`) đảm bảo an toàn tuyệt đối cho phiên bản mới.\r\n- Bổ sung cơ chế dọn sạch cache nhạy cảm (`wipeChannelCache`) khi nhận lệnh dừng dịch vụ từ xa.",
+    "changelog":  "### Added\r\n- Tích hợp Dynamic Heartbeat Daemon: Tự động đồng bộ và lắng nghe lệnh điều khiển dịch vụ từ xa trong thời gian thực mỗi 15 phút.\r\n- Hỗ trợ Real-Time Remote Service Control Engine: Điều khiển dừng dịch vụ khẩn cấp, bảo trì tạm thời, hoặc khóa cứng đếm ngược 5 giây.\r\n- Tách độc lập kênh cập nhật GitHub feed v2 (`app_update_v2.json`) đảm bảo an toàn tuyệt đối cho phiên bản mới.\r\n- Bổ sung cơ chế dọn sạch cache nhạy cảm (`wipeChannelCache`) khi nhận lệnh dừng dịch vụ từ xa.",
+    "downloadUrl":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v6.3.3/XemTV_v6.3.3_Release.apk",
+    "apkUrl":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v6.3.3/XemTV_v6.3.3_Release.apk",
+    "download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v6.3.3/XemTV_v6.3.3_Release.apk",
+    "browser_download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v6.3.3/XemTV_v6.3.3_Release.apk"
 }
