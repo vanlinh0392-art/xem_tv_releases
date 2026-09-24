@@ -1,20 +1,21 @@
 {
-    "versionCode":  73,
-    "versionName":  "6.3.3",
-    "minSupportedVersionCode":  72,
-    "whitelistVersionCodes":  [
-                                  72,
-                                  73,
-                                  74,
-                                  999
-                              ],
-    "serviceActive":  true,
-    "emergencyKillSwitch":  false,
-    "tag_name":  "v6.3.3",
-    "body":  "### Added\r\n- Tích hợp Dynamic Heartbeat Daemon: Tự động đồng bộ và lắng nghe lệnh điều khiển dịch vụ từ xa trong thời gian thực mỗi 15 phút.\r\n- Hỗ trợ Real-Time Remote Service Control Engine: Điều khiển dừng dịch vụ khẩn cấp, bảo trì tạm thời, hoặc khóa cứng đếm ngược 5 giây.\r\n- Tách độc lập kênh cập nhật GitHub feed v2 (`app_update_v2.json`) đảm bảo an toàn tuyệt đối cho phiên bản mới.\r\n- Bổ sung cơ chế dọn sạch cache nhạy cảm (`wipeChannelCache`) khi nhận lệnh dừng dịch vụ từ xa.",
-    "changelog":  "### Added\r\n- Tích hợp Dynamic Heartbeat Daemon: Tự động đồng bộ và lắng nghe lệnh điều khiển dịch vụ từ xa trong thời gian thực mỗi 15 phút.\r\n- Hỗ trợ Real-Time Remote Service Control Engine: Điều khiển dừng dịch vụ khẩn cấp, bảo trì tạm thời, hoặc khóa cứng đếm ngược 5 giây.\r\n- Tách độc lập kênh cập nhật GitHub feed v2 (`app_update_v2.json`) đảm bảo an toàn tuyệt đối cho phiên bản mới.\r\n- Bổ sung cơ chế dọn sạch cache nhạy cảm (`wipeChannelCache`) khi nhận lệnh dừng dịch vụ từ xa.",
-    "downloadUrl":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v6.3.3/XemTV_v6.3.3_Release.apk",
-    "apkUrl":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v6.3.3/XemTV_v6.3.3_Release.apk",
-    "download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v6.3.3/XemTV_v6.3.3_Release.apk",
-    "browser_download_url":  "https://github.com/vanlinh0392-art/xem_tv_releases/releases/download/v6.3.3/XemTV_v6.3.3_Release.apk"
+    "versionCode": 75,
+    "versionName": "6.4.1",
+    "minSupportedVersionCode": 72,
+    "whitelistVersionCodes": [
+        72,
+        73,
+        74,
+        75,
+        999
+    ],
+    "serviceActive": true,
+    "emergencyKillSwitch": false,
+    "tag_name": "v6.4.1",
+    "body": "### Fixed\n- Hotfix: AFR chỉ chạy trên Android TV — sửa lỗi nhiễu xanh/hồng trên điện thoại.\n\n### Added (v6.4.0)\n- Auto Frame Rate (AFR): Tự động match refresh rate TV với stream FPS để loại bỏ judder.",
+    "changelog": "### Fixed\n- Hotfix: AFR chỉ chạy trên Android TV — sửa lỗi nhiễu xanh/hồng trên điện thoại.\n\n### Added (v6.4.0)\n- Auto Frame Rate (AFR): Tự động match refresh rate TV với stream FPS để loại bỏ judder.",
+    "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.4.1_Release.apk",
+    "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.4.1_Release.apk",
+    "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.4.1_Release.apk",
+    "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.4.1_Release.apk"
 }
