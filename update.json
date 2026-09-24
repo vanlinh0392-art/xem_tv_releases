@@ -1,13 +1,13 @@
 {
-  "versionCode": 74,
-  "versionName": "6.4.0",
+  "versionCode": 75,
+  "versionName": "6.4.1",
   "minSupportedVersion": 35,
-  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.4.0_Release.apk",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.4.0_Release.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.4.0_Release.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.4.0_Release.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.4.1_Release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.4.1_Release.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.4.1_Release.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.4.1_Release.apk",
   "fileSize": 5832279,
-  "sha256": "3e2f9e7b5175cb70795ca888b97c806322774f7df4b5c685745e53a16c8a0b60",
+  "sha256": "182c3739144f000133f9a4c1b2d3ce002a653ca0243a362b9f5bff1a91d7757a",
   "releaseDate": "2026-09-24",
-  "changelog": "XemTV v6.4.0: Auto Frame Rate (AFR) - Tu dong match refresh rate TV voi stream FPS de loai bo judder. Mac dinh bat."
+  "changelog": "XemTV v6.4.1: Hotfix - AFR chi chay tren Android TV, sua loi nhieu xanh/hong tren dien thoai."
 }
