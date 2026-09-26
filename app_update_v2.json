@@ -1,6 +1,6 @@
 {
-  "versionCode": 76,
-  "versionName": "6.5.0",
+  "versionCode": 77,
+  "versionName": "6.6.0",
   "minSupportedVersionCode": 72,
   "whitelistVersionCodes": [
     72,
@@ -8,18 +8,19 @@
     74,
     75,
     76,
+    77,
     999
   ],
   "serviceActive": true,
   "emergencyKillSwitch": false,
-  "tag_name": "v6.5.0",
-  "body": "### Mới trong v6.5.0\n- Dọn dẹp link die từng kênh của từng nguồn: Kiểm tra liveness và loại bỏ các link hỏng chi tiết từng kênh hoặc toàn bộ nguồn.\n- Phòng vệ All-Dead Guard: Tự động khóa và từ chối xóa khi 100% link báo chết để bảo vệ dữ liệu khi rớt mạng.\n- Tự động sao lưu Snapshot .bak: Hỗ trợ nút Hoàn tác tức thì để phục hồi nguyên vẹn nếu dọn nhầm.\n- Thu gọn khi đang nạp nguồn IPTV: Bổ sung nút [🗕 Thu gọn] và bắt phím BACK — video tiếp tục phát mượt mà, tiến trình kiểm chứng 3 vòng chạy ngầm và thông báo banner khi xong.",
-  "changelog": "### Mới trong v6.5.0\n- Dọn dẹp link die từng kênh của từng nguồn: Kiểm tra liveness và loại bỏ các link hỏng chi tiết từng kênh hoặc toàn bộ nguồn.\n- Phòng vệ All-Dead Guard: Tự động khóa và từ chối xóa khi 100% link báo chết để bảo vệ dữ liệu khi rớt mạng.\n- Tự động sao lưu Snapshot .bak: Hỗ trợ nút Hoàn tác tức thì để phục hồi nguyên vẹn nếu dọn nhầm.\n- Thu gọn khi đang nạp nguồn IPTV: Bổ sung nút [🗕 Thu gọn] và bắt phím BACK — video tiếp tục phát mượt mà, tiến trình kiểm chứng 3 vòng chạy ngầm và thông báo banner khi xong.",
-  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.5.0_Release.apk",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.5.0_Release.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.5.0_Release.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.5.0_Release.apk",
-  "sha256": "23c9499cd1e057e90d0227cd47e652ba31e3b231fc10906a26856aae36fa011b",
-  "fileSize": 5854695,
+  "tag_name": "v6.6.0",
+  "body": "### Mới trong v6.6.0\n- Nút Thu gọn tiến trình toàn diện: Hỗ trợ nút [🗕 Thu gọn] cho kiểm tra sức khỏe tất cả nguồn, kiểm tra 1 nguồn và quét danh sách kênh.\n- Hỗ trợ phím BACK Remote TV: Bấm phím BACK trên điều khiển TV là lập tức thu gọn dialog để tiếp tục xem TV 60 FPS mà không ngắt tiến trình.\n- Tải bản cập nhật ngầm: Bổ sung nút [🗕 Tải ngầm] và bắt phím BACK khi tải APK cập nhật.\n- Điều phối tài nguyên thích ứng: Hạ số luồng kiểm tra xuống 4 luồng an toàn kèm nhịp thở 20ms, đảm bảo TV Box không bị nghẽn mạng hay giật hình khi đang phát video.\n- Báo cáo kết quả tinh tế qua HUD banner: Không bung popup che màn hình xem video khi tác vụ ngầm hoàn tất.\n- Gia cố bảo mật Zero-Trust: Vá Strict SHA-256 APK verification, lưu sandbox cache an toàn và chống xung đột ghi tệp đồng thời.",
+  "changelog": "### Mới trong v6.6.0\n- Nút Thu gọn tiến trình toàn diện: Hỗ trợ nút [🗕 Thu gọn] cho kiểm tra sức khỏe tất cả nguồn, kiểm tra 1 nguồn và quét danh sách kênh.\n- Hỗ trợ phím BACK Remote TV: Bấm phím BACK trên điều khiển TV là lập tức thu gọn dialog để tiếp tục xem TV 60 FPS mà không ngắt tiến trình.\n- Tải bản cập nhật ngầm: Bổ sung nút [🗕 Tải ngầm] và bắt phím BACK khi tải APK cập nhật.\n- Điều phối tài nguyên thích ứng: Hạ số luồng kiểm tra xuống 4 luồng an toàn kèm nhịp thở 20ms, đảm bảo TV Box không bị nghẽn mạng hay giật hình khi đang phát video.\n- Báo cáo kết quả tinh tế qua HUD banner: Không bung popup che màn hình xem video khi tác vụ ngầm hoàn tất.\n- Gia cố bảo mật Zero-Trust: Vá Strict SHA-256 APK verification, lưu sandbox cache an toàn và chống xung đột ghi tệp đồng thời.",
+  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.6.0_Release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.6.0_Release.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.6.0_Release.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.6.0_Release.apk",
+  "sha256": "8ef3ac571ac5d8ca9ce48a2cd09ef2bd9626c260d05c946a4e77bc06fe753b04",
+  "fileSize": 5858323,
   "releaseDate": "2026-09-26"
 }
