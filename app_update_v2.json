@@ -1,21 +1,25 @@
 {
-    "versionCode": 75,
-    "versionName": "6.4.1",
-    "minSupportedVersionCode": 72,
-    "whitelistVersionCodes": [
-        72,
-        73,
-        74,
-        75,
-        999
-    ],
-    "serviceActive": true,
-    "emergencyKillSwitch": false,
-    "tag_name": "v6.4.1",
-    "body": "### Fixed\n- Hotfix: AFR chỉ chạy trên Android TV — sửa lỗi nhiễu xanh/hồng trên điện thoại.\n\n### Added (v6.4.0)\n- Auto Frame Rate (AFR): Tự động match refresh rate TV với stream FPS để loại bỏ judder.",
-    "changelog": "### Fixed\n- Hotfix: AFR chỉ chạy trên Android TV — sửa lỗi nhiễu xanh/hồng trên điện thoại.\n\n### Added (v6.4.0)\n- Auto Frame Rate (AFR): Tự động match refresh rate TV với stream FPS để loại bỏ judder.",
-    "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.4.1_Release.apk",
-    "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.4.1_Release.apk",
-    "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.4.1_Release.apk",
-    "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.4.1_Release.apk"
+  "versionCode": 76,
+  "versionName": "6.5.0",
+  "minSupportedVersionCode": 72,
+  "whitelistVersionCodes": [
+    72,
+    73,
+    74,
+    75,
+    76,
+    999
+  ],
+  "serviceActive": true,
+  "emergencyKillSwitch": false,
+  "tag_name": "v6.5.0",
+  "body": "### Mới trong v6.5.0\n- Dọn dẹp link die từng kênh của từng nguồn: Kiểm tra liveness và loại bỏ các link hỏng chi tiết từng kênh hoặc toàn bộ nguồn.\n- Phòng vệ All-Dead Guard: Tự động khóa và từ chối xóa khi 100% link báo chết để bảo vệ dữ liệu khi rớt mạng.\n- Tự động sao lưu Snapshot .bak: Hỗ trợ nút Hoàn tác tức thì để phục hồi nguyên vẹn nếu dọn nhầm.\n- Thu gọn khi đang nạp nguồn IPTV: Bổ sung nút [🗕 Thu gọn] và bắt phím BACK — video tiếp tục phát mượt mà, tiến trình kiểm chứng 3 vòng chạy ngầm và thông báo banner khi xong.",
+  "changelog": "### Mới trong v6.5.0\n- Dọn dẹp link die từng kênh của từng nguồn: Kiểm tra liveness và loại bỏ các link hỏng chi tiết từng kênh hoặc toàn bộ nguồn.\n- Phòng vệ All-Dead Guard: Tự động khóa và từ chối xóa khi 100% link báo chết để bảo vệ dữ liệu khi rớt mạng.\n- Tự động sao lưu Snapshot .bak: Hỗ trợ nút Hoàn tác tức thì để phục hồi nguyên vẹn nếu dọn nhầm.\n- Thu gọn khi đang nạp nguồn IPTV: Bổ sung nút [🗕 Thu gọn] và bắt phím BACK — video tiếp tục phát mượt mà, tiến trình kiểm chứng 3 vòng chạy ngầm và thông báo banner khi xong.",
+  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.5.0_Release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.5.0_Release.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.5.0_Release.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.5.0_Release.apk",
+  "sha256": "23c9499cd1e057e90d0227cd47e652ba31e3b231fc10906a26856aae36fa011b",
+  "fileSize": 5854695,
+  "releaseDate": "2026-09-26"
 }
