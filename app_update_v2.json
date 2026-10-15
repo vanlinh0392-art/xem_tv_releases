@@ -1,6 +1,6 @@
 {
-  "versionCode": 77,
-  "versionName": "6.6.0",
+  "versionCode": 79,
+  "versionName": "6.8.0",
   "minSupportedVersionCode": 72,
   "whitelistVersionCodes": [
     72,
@@ -9,18 +9,20 @@
     75,
     76,
     77,
+    78,
+    79,
     999
   ],
   "serviceActive": true,
   "emergencyKillSwitch": false,
-  "tag_name": "v6.6.0",
-  "body": "### Mới trong v6.6.0\n- Nút Thu gọn tiến trình toàn diện: Hỗ trợ nút [🗕 Thu gọn] cho kiểm tra sức khỏe tất cả nguồn, kiểm tra 1 nguồn và quét danh sách kênh.\n- Hỗ trợ phím BACK Remote TV: Bấm phím BACK trên điều khiển TV là lập tức thu gọn dialog để tiếp tục xem TV 60 FPS mà không ngắt tiến trình.\n- Tải bản cập nhật ngầm: Bổ sung nút [🗕 Tải ngầm] và bắt phím BACK khi tải APK cập nhật.\n- Điều phối tài nguyên thích ứng: Hạ số luồng kiểm tra xuống 4 luồng an toàn kèm nhịp thở 20ms, đảm bảo TV Box không bị nghẽn mạng hay giật hình khi đang phát video.\n- Báo cáo kết quả tinh tế qua HUD banner: Không bung popup che màn hình xem video khi tác vụ ngầm hoàn tất.\n- Gia cố bảo mật Zero-Trust: Vá Strict SHA-256 APK verification, lưu sandbox cache an toàn và chống xung đột ghi tệp đồng thời.",
-  "changelog": "### Mới trong v6.6.0\n- Nút Thu gọn tiến trình toàn diện: Hỗ trợ nút [🗕 Thu gọn] cho kiểm tra sức khỏe tất cả nguồn, kiểm tra 1 nguồn và quét danh sách kênh.\n- Hỗ trợ phím BACK Remote TV: Bấm phím BACK trên điều khiển TV là lập tức thu gọn dialog để tiếp tục xem TV 60 FPS mà không ngắt tiến trình.\n- Tải bản cập nhật ngầm: Bổ sung nút [🗕 Tải ngầm] và bắt phím BACK khi tải APK cập nhật.\n- Điều phối tài nguyên thích ứng: Hạ số luồng kiểm tra xuống 4 luồng an toàn kèm nhịp thở 20ms, đảm bảo TV Box không bị nghẽn mạng hay giật hình khi đang phát video.\n- Báo cáo kết quả tinh tế qua HUD banner: Không bung popup che màn hình xem video khi tác vụ ngầm hoàn tất.\n- Gia cố bảo mật Zero-Trust: Vá Strict SHA-256 APK verification, lưu sandbox cache an toàn và chống xung đột ghi tệp đồng thời.",
-  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.6.0_Release.apk",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.6.0_Release.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.6.0_Release.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.6.0_Release.apk",
-  "sha256": "8ef3ac571ac5d8ca9ce48a2cd09ef2bd9626c260d05c946a4e77bc06fe753b04",
-  "fileSize": 5858323,
-  "releaseDate": "2026-09-26"
+  "tag_name": "v6.8.0",
+  "body": "### Mới trong v6.8.0\n- Khắc phục lỗi câm tiếng phần cứng TV (Audio DSP Circuit Breaker): Ngăn chặn gọi HAL lỗi trên chip TV Box Amlogic/Allwinner/Rockchip, triệt tiêu rò rỉ ALSA File Descriptor và crash audioserver làm TV mất âm thanh.\n- Tìm kiếm giọng nói Android TV toàn diện (Leanback Search): Tự động nạp danh sách kênh khi cold-start từ màn hình chính; mở rộng tìm kiếm 100% kênh toàn hệ thống (không còn bị giới hạn chỉ 10 kênh VTV); tiền biên dịch Regex tĩnh phản hồi <3ms.\n- Gia cố Bảo mật Zero-Trust: Chống Path Traversal và Wildcard Wipe bằng AtomicFile; chống DNS Rebinding trong SSRF và Web Remote Companion; cơ chế Anti-Brute-Force khóa IP sau 5 lần nhập sai PIN; thu hẹp FileProvider an toàn.\n- Tối ưu Cold Start < 500ms & Dọn rò rỉ RAM: Splash Zero-Layout Window Theme Trampoline; bọc Overlay cài đặt trong ViewStub; QR Bitmap dùng RGB_565 và recycle() khi đóng; chuyển failure cache sang in-memory ConcurrentHashMap (TTL 6h) triệt tiêu hoàn toàn nghẽn SharedPreferences.\n- Trảm 80% Bloatware Parsers: Tinh giản MpdManifestParser, XtreamStreamClient, KodiPropExtractor và chuẩn hóa mô hình kênh Channel.",
+  "changelog": "### Mới trong v6.8.0\n- Khắc phục lỗi câm tiếng phần cứng TV (Audio DSP Circuit Breaker): Ngăn chặn gọi HAL lỗi trên chip TV Box Amlogic/Allwinner/Rockchip, triệt tiêu rò rỉ ALSA File Descriptor và crash audioserver làm TV mất âm thanh.\n- Tìm kiếm giọng nói Android TV toàn diện (Leanback Search): Tự động nạp danh sách kênh khi cold-start từ màn hình chính; mở rộng tìm kiếm 100% kênh toàn hệ thống (không còn bị giới hạn chỉ 10 kênh VTV); tiền biên dịch Regex tĩnh phản hồi <3ms.\n- Gia cố Bảo mật Zero-Trust: Chống Path Traversal và Wildcard Wipe bằng AtomicFile; chống DNS Rebinding trong SSRF và Web Remote Companion; cơ chế Anti-Brute-Force khóa IP sau 5 lần nhập sai PIN; thu hẹp FileProvider an toàn.\n- Tối ưu Cold Start < 500ms & Dọn rò rỉ RAM: Splash Zero-Layout Window Theme Trampoline; bọc Overlay cài đặt trong ViewStub; QR Bitmap dùng RGB_565 và recycle() khi đóng; chuyển failure cache sang in-memory ConcurrentHashMap (TTL 6h) triệt tiêu hoàn toàn nghẽn SharedPreferences.\n- Trảm 80% Bloatware Parsers: Tinh giản MpdManifestParser, XtreamStreamClient, KodiPropExtractor và chuẩn hóa mô hình kênh Channel.",
+  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.8.0_Release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.8.0_Release.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.8.0_Release.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.8.0_Release.apk",
+  "sha256": "880df2e46afe4a3f3a1e4edcc534e68473f168546b91df336e0e9db65ab6e800",
+  "fileSize": 5777383,
+  "releaseDate": "2026-10-15"
 }
