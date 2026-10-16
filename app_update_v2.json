@@ -1,6 +1,6 @@
 {
-  "versionCode": 79,
-  "versionName": "6.8.0",
+  "versionCode": 80,
+  "versionName": "6.8.1",
   "minSupportedVersionCode": 72,
   "whitelistVersionCodes": [
     72,
@@ -11,18 +11,19 @@
     77,
     78,
     79,
+    80,
     999
   ],
   "serviceActive": true,
   "emergencyKillSwitch": false,
-  "tag_name": "v6.8.0",
-  "body": "### Mới trong v6.8.0\n- Khắc phục lỗi câm tiếng phần cứng TV (Audio DSP Circuit Breaker): Ngăn chặn gọi HAL lỗi trên chip TV Box Amlogic/Allwinner/Rockchip, triệt tiêu rò rỉ ALSA File Descriptor và crash audioserver làm TV mất âm thanh.\n- Tìm kiếm giọng nói Android TV toàn diện (Leanback Search): Tự động nạp danh sách kênh khi cold-start từ màn hình chính; mở rộng tìm kiếm 100% kênh toàn hệ thống (không còn bị giới hạn chỉ 10 kênh VTV); tiền biên dịch Regex tĩnh phản hồi <3ms.\n- Gia cố Bảo mật Zero-Trust: Chống Path Traversal và Wildcard Wipe bằng AtomicFile; chống DNS Rebinding trong SSRF và Web Remote Companion; cơ chế Anti-Brute-Force khóa IP sau 5 lần nhập sai PIN; thu hẹp FileProvider an toàn.\n- Tối ưu Cold Start < 500ms & Dọn rò rỉ RAM: Splash Zero-Layout Window Theme Trampoline; bọc Overlay cài đặt trong ViewStub; QR Bitmap dùng RGB_565 và recycle() khi đóng; chuyển failure cache sang in-memory ConcurrentHashMap (TTL 6h) triệt tiêu hoàn toàn nghẽn SharedPreferences.\n- Trảm 80% Bloatware Parsers: Tinh giản MpdManifestParser, XtreamStreamClient, KodiPropExtractor và chuẩn hóa mô hình kênh Channel.",
-  "changelog": "### Mới trong v6.8.0\n- Khắc phục lỗi câm tiếng phần cứng TV (Audio DSP Circuit Breaker): Ngăn chặn gọi HAL lỗi trên chip TV Box Amlogic/Allwinner/Rockchip, triệt tiêu rò rỉ ALSA File Descriptor và crash audioserver làm TV mất âm thanh.\n- Tìm kiếm giọng nói Android TV toàn diện (Leanback Search): Tự động nạp danh sách kênh khi cold-start từ màn hình chính; mở rộng tìm kiếm 100% kênh toàn hệ thống (không còn bị giới hạn chỉ 10 kênh VTV); tiền biên dịch Regex tĩnh phản hồi <3ms.\n- Gia cố Bảo mật Zero-Trust: Chống Path Traversal và Wildcard Wipe bằng AtomicFile; chống DNS Rebinding trong SSRF và Web Remote Companion; cơ chế Anti-Brute-Force khóa IP sau 5 lần nhập sai PIN; thu hẹp FileProvider an toàn.\n- Tối ưu Cold Start < 500ms & Dọn rò rỉ RAM: Splash Zero-Layout Window Theme Trampoline; bọc Overlay cài đặt trong ViewStub; QR Bitmap dùng RGB_565 và recycle() khi đóng; chuyển failure cache sang in-memory ConcurrentHashMap (TTL 6h) triệt tiêu hoàn toàn nghẽn SharedPreferences.\n- Trảm 80% Bloatware Parsers: Tinh giản MpdManifestParser, XtreamStreamClient, KodiPropExtractor và chuẩn hóa mô hình kênh Channel.",
-  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.8.0_Release.apk",
-  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.8.0_Release.apk",
-  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.8.0_Release.apk",
-  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.8.0_Release.apk",
-  "sha256": "880df2e46afe4a3f3a1e4edcc534e68473f168546b91df336e0e9db65ab6e800",
-  "fileSize": 5777383,
-  "releaseDate": "2026-10-15"
+  "tag_name": "v6.8.1",
+  "body": "### Mới trong v6.8.1\n- Tối ưu Toàn diện Giao diện Mobile & Cảm ứng: Tự động chuyển đổi layout linh hoạt giữa màn hình dọc chuẩn YouTube/TV360 (video 16:9 ở trên, danh sách kênh ở dưới) và màn hình ngang tràn viền xem truyền hình.\n- Sửa lỗi màn hình cảm ứng bị liệt: Lớp phủ cảm ứng độc lập touch_overlay trên PlayerView, hỗ trợ chạm 1-chạm để Bật/Tắt thanh điều khiển nổi (Play/Pause, Đổi kênh, Danh sách, Cài đặt, Xoay toàn màn hình) tự động ẩn sau 4 giây.\n- Xử lý phím BACK thông minh trên Mobile: Bấm phím Back khi ở chế độ xoay ngang sẽ thu nhỏ về màn hình dọc thay vì thoát ứng dụng.\n- Bảo toàn 100% trải nghiệm D-pad Leanback trên Android TV Box (touch_overlay không chiếm focus, giữ nguyên 60fps chuẩn TV).",
+  "changelog": "### Mới trong v6.8.1\n- Tối ưu Toàn diện Giao diện Mobile & Cảm ứng: Tự động chuyển đổi layout linh hoạt giữa màn hình dọc chuẩn YouTube/TV360 (video 16:9 ở trên, danh sách kênh ở dưới) và màn hình ngang tràn viền xem truyền hình.\n- Sửa lỗi màn hình cảm ứng bị liệt: Lớp phủ cảm ứng độc lập touch_overlay trên PlayerView, hỗ trợ chạm 1-chạm để Bật/Tắt thanh điều khiển nổi (Play/Pause, Đổi kênh, Danh sách, Cài đặt, Xoay toàn màn hình) tự động ẩn sau 4 giây.\n- Xử lý phím BACK thông minh trên Mobile: Bấm phím Back khi ở chế độ xoay ngang sẽ thu nhỏ về màn hình dọc thay vì thoát ứng dụng.\n- Bảo toàn 100% trải nghiệm D-pad Leanback trên Android TV Box (touch_overlay không chiếm focus, giữ nguyên 60fps chuẩn TV).",
+  "downloadUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.8.1_Release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.8.1_Release.apk",
+  "download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.8.1_Release.apk",
+  "browser_download_url": "https://raw.githubusercontent.com/vanlinh0392-art/xem_tv_releases/main/XemTV_v6.8.1_Release.apk",
+  "sha256": "f7efb8e663c8319d384fd10ca3affaa68fa330dd72ab71952d5a08e1e0364c55",
+  "fileSize": 5783103,
+  "releaseDate": "2026-10-16"
 }
